@@ -1,0 +1,888 @@
+[
+    {
+        "question": "What are the objectives of ensuring data integrity?\nChoose two correct choices",
+        "choices": [
+            "Data is unaltered during transit",
+            "Data is not changed by unauthorized entities",
+            "Data is encrypted while in transit and when stored on disks",
+            "Access to the data is authenticated",
+            "Data is available all the time"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which of the following are categories of security measures or controls?\nChoose three correct choices",
+        "choices": [
+            "Camera",
+            "Firewalls",
+            "Guards",
+            "Awareness, training and education",
+            "Policy and procedure",
+            "Technology"
+        ],
+        "correct": [
+            3,
+            4,
+            5
+        ]
+    },
+    {
+        "question": "You are configuring access settings to require employees in your organization to authenticate first before accessing certain web pages.\n\nWhich requirement of information security is addressed through this configuration?",
+        "choices": [
+            "Confidentiality",
+            "Availability",
+            "Integrity",
+            "Scalability"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What name is given to a group of bots, connected through the Internet, with the ability to be controlled by a malicious individual or group?",
+        "choices": [
+            "Botnet",
+            "Zombie",
+            "Trojan horse",
+            "Worm"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "An organization is experiencing overwhelming visits to a main web server. You are developing a plan to add a couple of more web servers for load balancing and redundancy. \n\nWhich requirement of information security is addressed by implementing the plan?",
+        "choices": [
+            "Availability",
+            "Confidentiality",
+            "Scalability",
+            "Integrity"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'Internet-based cameras and gaming gear are not subject to security breaches.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "Carrying out a multi-phase, long-term, stealthy and advanced operation against a specific target is often referred to as what?",
+        "choices": [
+            "Advanced persistent threat",
+            "Network sniffing",
+            "Script kiddies",
+            "Rainbow tables",
+            "Social engineering"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'Cryptocurrency transactions are digital.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What do you call the vulnerabilities discovered by Google security researchers that affect almost all CPUs released since 1995?\n\nSelect two correct answers",
+        "choices": [
+            "Spectre",
+            "Meltdown",
+            "Shell shock",
+            "WannaCry",
+            "NotPetva"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the best way to avoid getting spyware on a machine?",
+        "choices": [
+            "Install software only from trusted websites",
+            "Install the latest antivirus updates",
+            "Install the latest operating system updates",
+            "Install the latest web browser updates"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following security implementations use biometrics?\n\nChoose two correct choices",
+        "choices": [
+            "Fingerprint",
+            "Voice recognition",
+            "Fob",
+            "Phone",
+            "Credit card"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which technology creates a security token that allows a user to log in to a desired web application using credentials from a social media website?",
+        "choices": [
+            "Open authorization",
+            "VPN service",
+            "In-private browsing mode",
+            "Password manager"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "A port scan returns an 'open' response. What does this mean?",
+        "choices": [
+            "A service is listening on the port",
+            "Connections to the port will be denied",
+            "There was no reply from the host"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "For what purpose would a network administrator use the Nmap tool?",
+        "choices": [
+            "To detect and identify open ports",
+            "To identify specific network anomalies",
+            "To protect the private IP addresses of internal hosts",
+            "To collect and analyze security alerts and logs"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters traffic based on application, program or service?",
+        "choices": [
+            "Application layer firewall",
+            "Proxy server",
+            "Context aware application firewall",
+            "Host-based firewall",
+            "Network layer firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'Cybersecurity certifications are a way for you to verify your skills and knowledge and can also boost your career.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "One of your colleagues has lost her identification badge. She is in a hurry to get to a meeting and does not have time to visit Human Resources to get a temporary badge. You lend her your identification badge until she can obtain a replacement.\n\nIs this behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "An employee points out a design flaw in a new product to the department manager.\n\nIs this employee's behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following are examples of on-path attacks?",
+        "choices": [
+            "Man-in-the-Middle",
+            "Man-in-the-Mobile",
+            "DDoS",
+            "Worms",
+            "Ransomware",
+            "SEO poisoning"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "An organization's IT department reports that their web server is receiving an abnormally high number of web page requests from different locations simultaneously.\n\nWhat type of security attack is occurring?",
+        "choices": [
+            "DDoS",
+            "Spyware",
+            "Adware",
+            "SEO poisoning",
+            "Spear phishing",
+            "Trojan horse"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "You are surfing the Internet using a laptop at a public Wi-Fi cafe. What should you check first before you connect to the public network?",
+        "choices": [
+            "If the laptop has a master password set to secure the passwords stored in the password manager",
+            "That the laptop web browser is operating in private mode",
+            "If the laptop requires user authentication for file and media sharing",
+            "That the Bluetooth adapter is disabled"
+        ],
+        "correct": [
+            2
+        ]
+    },
+    {
+        "question": "Which of the following certifications is aimed at high school and early college students, as well as anyone interested in a career change?",
+        "choices": [
+            "Microsoft Technology Associate Security Fundamentals",
+            "CompTIA Security+",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "ISC2 Certified Information Systems Security Professional",
+            "EC Council Certified Ethical Hacker"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of these is the most recognizable and popular security certification, requiring at least five years' relevant industry experience before you can take the exam?",
+        "choices": [
+            "ISC2 Certified Information Systems Security Professional",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "EC Council Certified Ethical Hacker",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "Microsoft Technology Associate Security Fundamentals",
+            "CompTIA Security+"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What of the following are examples of cracking an encrypted password?\n\nChoose four correct answers",
+        "choices": [
+            "Rainbow tables",
+            "Dictionary attack",
+            "Brute force attack",
+            "Spraying",
+            "Network sniffing",
+            "Intimidation",
+            "Social engineering"
+        ],
+        "correct": [
+            0,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "question": "What name is given to the emerging threat that hides on a computer or mobile device and uses that machine's resources to mine cryptocurrencies?",
+        "choices": [
+            "Cryptojacking",
+            "Cryptoransomware",
+            "Bluejacking",
+            "Phishing"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What is the best approach for preventing a compromised IoT device from maliciously accessing data and devices on a local network?",
+        "choices": [
+            "Place all IoT devices that have access to the Internet on an isolated network",
+            "Disconnect all IoT devices from the Internet",
+            "Set the security settings of workstation web browsers to a higher level",
+            "Install a software firewall on every network device"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters traffic based on source and destination IP addresses?",
+        "choices": [
+            "Network layer firewall",
+            "Proxy server",
+            "Transport layer firewall",
+            "Network address translation firewall",
+            "Application layer firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What action will an IDS take upon detection of malicious traffic?",
+        "choices": [
+            "Create a network alert and log the detection",
+            "Drop only packets identified as malicious",
+            "Reroute malicious traffic to a honeypot",
+            "Block or deny all traffic"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters traffic based on the user, device, role, application type and threat profile?",
+        "choices": [
+            "Context aware application firewall",
+            "Network address translation firewall",
+            "Host-based firewall",
+            "Network layer firewall",
+            "Application layer firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following certifications meets the U.S. Department of Defense Directive 8570.01-M requirements, which is important for anyone looking to work in IT security for the federal government?",
+        "choices": [
+            "CompTIA Security+",
+            "ISC2 Certified Information Systems Security Professional",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "EC Council Certified Ethical Hacker",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "Microsoft Technology Associate Security Fundamentals"
+        ],
+        "correct": [
+            5
+        ]
+    },
+    {
+        "question": "An employee is laid off after fifteen years with the same organization. The employee is then hired by another organization within a week. In the new organization, the employee shares documents and ideas for products that the employee proposed at the original organization.\n\nIs the employee's behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "Which of the following statements best describes cybersecurity?",
+        "choices": [
+            "It is an ongoing effort to protect Internet-connected systems and the data associated with those systems from unauthorized use or harm",
+            "It is a framework for security policy development",
+            "It is the name of a comprehensive security application for end users to protect workstations from being attacked",
+            "It is a standard-based model for developing firewall technologies to fight against cybercrime"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What type of attack disrupts services by overwhelming network devices with bogus traffic?",
+        "choices": [
+            "DDoS",
+            "Brute force",
+            "Zero-day",
+            "Port scans"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What do you call a digital asset designed to work as a medium of exchange that uses strong encryption to secure a financial transaction?",
+        "choices": [
+            "Cryptocurrency",
+            "Near Field Communications",
+            "Google Pay",
+            "Apple Pay"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "A medical office employee sends emails to patients about their recent visits to the facility. \n\nWhat information would put the privacy of the patients at risk if it was included in the email?",
+        "choices": [
+            "Patient records",
+            "Next appointment",
+            "Contact information",
+            "First and last name"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following are commonly used port scanning applications?\n\nSelect two correct answers",
+        "choices": [
+            "Nmap",
+            "Zenmap",
+            "Port number",
+            "Sequence number"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the main purpose of cyberwarfare?",
+        "choices": [
+            "To gain advantage over adversaries",
+            "To develop advanced network devices",
+            "To protect cloud-based data centers",
+            "To simulate possible war scenarios among nations"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'Cryptocurrencies are handled on a centralized exchange.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "'Data coming into a program should be sanitized, as it could have malicious content, designed to force the program to behave in an unintended way.'\n\nThis statement describes what security vulnerability?",
+        "choices": [
+            "Non-validated input",
+            "Access control problems",
+            "Buffer overflow",
+            "Race conditions",
+            "Weaknesses in security practices"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "A port scan returns a 'dropped' response. What does this mean?",
+        "choices": [
+            "There was no reply from the host",
+            "Connections to the port will be denied",
+            "A service is listening on the port"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What is the main function of the Cisco Security Incident Response Team?",
+        "choices": [
+            "To ensure company, system and data preservation",
+            "To design polymorphic malware",
+            "To provide standards for new encryption techniques",
+            "To design next generation routers and switches that are less prone to cyber attacks"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "During a meeting with the Marketing department, a representative from IT discusses features of an upcoming product that will be released next year\n\n.Is this employee's behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls are placed in front of web services to protect, hide, offload and distribute access to web servers?",
+        "choices": [
+            "Reverse proxy server",
+            "Transport layer firewall",
+            "Proxy server",
+            "Network layer firewall",
+            "Application layer firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "An employee is at a restaurant with friends and tells them about an exciting new video game that is under development at the organization they work for.\n\nIs this employee's behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "Which of the following items are states of data?\nChoose three correct choices",
+        "choices": [
+            "Processing",
+            "Transmission",
+            "Storage",
+            "Binary",
+            "ASCII",
+            "Text"
+        ],
+        "correct": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What vulnerability occurs when the output of an event depends on ordered or timed outputs?",
+        "choices": [
+            "Race conditions",
+            "Buffer overflow",
+            "Non-validated input",
+            "Access control problems",
+            "Weaknesses in security practices"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'A data breach does not impact the reputation of an organization.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            1
+        ]
+    },
+    {
+        "question": "Which of the following tools used for incident detection can be used to detect anomalous behavior, command and control traffic, and detect infected hosts?\n\nChoose two correct answers",
+        "choices": [
+            "Honeypot",
+            "Intrusion detection system",
+            "Reverse proxy server",
+            "NetFlow",
+            "Nmap",
+            "Honeypot"
+        ]
+    },
+    {
+        "question": "'A botnet can have tens of thousands of bots, or even hundreds of thousands.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'After a data breach, it's important to educate employees, partners and customers on how to prevent future breaches.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'An employee does something as an organization representative with the knowledge of that organization and this action is deemed illegal. The organization is legally responsible for this action.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following certifications tests your understanding and knowledge in how to look for weaknesses and vulnerabilities in target systems using the same knowledge and tools as a malicious hacker, but in a lawful and legitimate manner?",
+        "choices": [
+            "EC Council Certified Ethical Hacker",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "ISC2 Certified Information Systems Security Professional",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "Microsoft Technology Associate Security Fundamentals",
+            "CompTIA Security+"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "When describing malware, what is a difference between a virus and a worm?",
+        "choices": [
+            "A virus replicates itself by attaching to another file, whereas a worm can replicate itself independently",
+            "A virus can be used to deliver advertisements without user consent, whereas a worm cannot",
+            "A virus focuses on gaining privileged access to a device, whereas a worm does not",
+            "A virus can be used to launch a DoS attack (but not a DDoS), but a worm can be used to launch both DoS and DDoS attacks"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "A port scan returns a 'closed' response. What does this mean?",
+        "choices": [
+            "Connections to the port will be denied",
+            "A service is listening on the port",
+            "There was no reply from the host"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What tool is used to lure an attacker so that an administrator can capture, log and analyze the behavior of the attack?",
+        "choices": [
+            "Honeypot",
+            "Nmap",
+            "IDS",
+            "NetFlow"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What names are given to a database where all cryptocurrency transactions are recorded?\n\nSelect two correct choices",
+        "choices": [
+            "Blockchain",
+            "Ledger",
+            "Table",
+            "Spreadsheet"
+        ],
+        "correct": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters ports and system service calls on a single computer operating system?",
+        "choices": [
+            "Host-based firewall",
+            "Application layer firewall",
+            "Network layer firewall",
+            "Transport layer firewall",
+            "Network address translation firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "'An advanced persistent threat (APT) is usually well funded.'\n\nIs this statement true or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of a backdoor?",
+        "choices": [
+            "To gain unauthorized access to a system without normal authentication procedures",
+            "To enable software vendors to update software",
+            "For government access",
+            "To allow developers to debug software"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Improper management of physical access to a resource, such as a file, can lead to what type of security vulnerability?",
+        "choices": [
+            "Access control problems",
+            "Buffer overflow",
+            "Weaknesses in security practices",
+            "Race conditions",
+            "Non-validated input"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following certifications does not expire or require periodic recertification and is geared towards post-secondary graduates and those interested in a career change?",
+        "choices": [
+            "ISACA CSX Cybersecurity Fundamentals",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "Microsoft Technology Associate Security Fundamentals",
+            "EC Council Certified Ethical Hacker",
+            "ISC2 Certified Information Systems Security Professional",
+            "CompTIA Security+"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What vulnerability occurs when data is written beyond the memory areas allocated to an application?",
+        "choices": [
+            "Buffer overflow",
+            "Access control problems",
+            "Race conditions",
+            "Non-validated input",
+            "Weaknesses in security practices"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "During a meeting with the Marketing department, a representative from IT discusses features of an upcoming product that will be released next year.\n\nIs this employee’s behavior ethical or unethical?",
+        "choices": [
+            "Ethical",
+            "Unethical"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "What type of attack uses zombies?",
+        "choices": [
+            "DDoS",
+            "SEO poisoning",
+            "Spear phishing",
+            "Trojan horse"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of these is the most recognizable and popular security certification, requiring at least five years’ relevant industry experience before you can take the exam?",
+        "choices": [
+            "ISC2 Certified Information Systems Security Professional",
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "EC Council Certified Ethical Hacker",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "Microsoft Technology Associate Security Fundamentals",
+            "CompTIA Security+"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters web content requests such as URLs and domain names?",
+        "choices": [
+            "Proxy server",
+            "Network layer firewall",
+            "Reverse proxy server",
+            "Application layer firewall",
+            "Transport layer firewall",
+            "Network address translation firewall"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is an entry-level certification for newcomers who are preparing to start their career in cybersecurity?",
+        "choices": [
+            "Palo Alto Networks Certified Cybersecurity Associate",
+            "CompTIA Security+",
+            "Microsoft Technology Associate Security Fundamentals",
+            "EC Council Certified Ethical Hacker",
+            "ISACA CSX Cybersecurity Fundamentals",
+            "ISC2 Certified Information Systems Security Professional"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls filters traffic based on source and destination data ports and filtering based on connection states?",
+        "choices": [
+            "Transport layer firewall",
+            "Network address translation firewall",
+            "Network layer firewall",
+            "Application layer firewall",
+            "Proxy server"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following firewalls hides or masquerades the private addresses of network hosts?",
+        "choices": [
+            "Network address translation firewall",
+            "Application layer firewall",
+            "Transport layer firewall",
+            "Network layer firewall",
+            "Reverse proxy server"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "An organization’s process of identifying and assessing risk with the goal of reducing these threats to an acceptable level is known as what?",
+        "choices": [
+            "Risk management",
+            "Disaster recovery",
+            "Vulnerability scanning",
+            "Business continuity"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "If developers attempt to create their own security algorithms, it will likely introduce what type of vulnerabilities?",
+        "choices": [
+            "Weaknesses in security practices",
+            "Buffer overflow",
+            "Access control problems",
+            "Race conditions",
+            "Non-validated input"
+        ],
+        "correct": [
+            0
+        ]
+    },
+    {
+        "question": "In networking, what name is given to the identifier at both ends of a transmission to ensure that the right data is passed to the correct application?",
+        "choices": [
+            "Port number",
+            "Sequence number",
+            "IP address",
+            "MAC address"
+        ],
+        "correct": [
+            0
+        ]
+    }
+]
