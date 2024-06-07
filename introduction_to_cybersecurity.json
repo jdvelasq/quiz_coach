@@ -1,6 +1,6 @@
 [
     {
-        "question": "What are the objectives of ensuring data integrity?\nChoose two correct choices",
+        "question": "What are the objectives of ensuring data integrity?\n\nChoose two answer choices",
         "choices": [
             "Data is unaltered during transit",
             "Data is not changed by unauthorized entities",
@@ -8,13 +8,13 @@
             "Access to the data is authenticated",
             "Data is available all the time"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
     },
     {
-        "question": "Which of the following are categories of security measures or controls?\nChoose three correct choices",
+        "question": "Which of the following are categories of security measures or controls?\nChoose three answer choices",
         "choices": [
             "Camera",
             "Firewalls",
@@ -23,7 +23,7 @@
             "Policy and procedure",
             "Technology"
         ],
-        "correct": [
+        "answer": [
             3,
             4,
             5
@@ -37,7 +37,7 @@
             "Integrity",
             "Scalability"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -49,7 +49,7 @@
             "Trojan horse",
             "Worm"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -61,7 +61,7 @@
             "Scalability",
             "Integrity"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -71,7 +71,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
@@ -84,7 +84,7 @@
             "Rainbow tables",
             "Social engineering"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -94,12 +94,12 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "What do you call the vulnerabilities discovered by Google security researchers that affect almost all CPUs released since 1995?\n\nSelect two correct answers",
+        "question": "What do you call the vulnerabilities discovered by Google security researchers that affect almost all CPUs released since 1995?\n\nSelect two answer answers",
         "choices": [
             "Spectre",
             "Meltdown",
@@ -107,7 +107,7 @@
             "WannaCry",
             "NotPetva"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
@@ -120,12 +120,12 @@
             "Install the latest operating system updates",
             "Install the latest web browser updates"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "Which of the following security implementations use biometrics?\n\nChoose two correct choices",
+        "question": "Which of the following security implementations use biometrics?\n\nChoose two answer choices",
         "choices": [
             "Fingerprint",
             "Voice recognition",
@@ -133,7 +133,7 @@
             "Phone",
             "Credit card"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
@@ -146,7 +146,7 @@
             "In-private browsing mode",
             "Password manager"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -157,7 +157,7 @@
             "Connections to the port will be denied",
             "There was no reply from the host"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -169,7 +169,7 @@
             "To protect the private IP addresses of internal hosts",
             "To collect and analyze security alerts and logs"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -182,7 +182,7 @@
             "Host-based firewall",
             "Network layer firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -192,7 +192,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -202,7 +202,7 @@
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
@@ -212,7 +212,7 @@
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -226,7 +226,7 @@
             "Ransomware",
             "SEO poisoning"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
@@ -241,7 +241,7 @@
             "Spear phishing",
             "Trojan horse"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -253,7 +253,7 @@
             "If the laptop requires user authentication for file and media sharing",
             "That the Bluetooth adapter is disabled"
         ],
-        "correct": [
+        "answer": [
             2
         ]
     },
@@ -267,7 +267,7 @@
             "ISC2 Certified Information Systems Security Professional",
             "EC Council Certified Ethical Hacker"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -281,12 +281,12 @@
             "Microsoft Technology Associate Security Fundamentals",
             "CompTIA Security+"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "What of the following are examples of cracking an encrypted password?\n\nChoose four correct answers",
+        "question": "What of the following are examples of cracking an encrypted password?\n\nChoose four answer answers",
         "choices": [
             "Rainbow tables",
             "Dictionary attack",
@@ -296,7 +296,7 @@
             "Intimidation",
             "Social engineering"
         ],
-        "correct": [
+        "answer": [
             0,
             1,
             2,
@@ -311,7 +311,7 @@
             "Bluejacking",
             "Phishing"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -323,7 +323,7 @@
             "Set the security settings of workstation web browsers to a higher level",
             "Install a software firewall on every network device"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -336,7 +336,7 @@
             "Network address translation firewall",
             "Application layer firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -348,7 +348,7 @@
             "Reroute malicious traffic to a honeypot",
             "Block or deny all traffic"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -361,7 +361,7 @@
             "Network layer firewall",
             "Application layer firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -375,7 +375,7 @@
             "ISACA CSX Cybersecurity Fundamentals",
             "Microsoft Technology Associate Security Fundamentals"
         ],
-        "correct": [
+        "answer": [
             5
         ]
     },
@@ -385,7 +385,7 @@
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
@@ -397,7 +397,7 @@
             "It is the name of a comprehensive security application for end users to protect workstations from being attacked",
             "It is a standard-based model for developing firewall technologies to fight against cybercrime"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -409,7 +409,7 @@
             "Zero-day",
             "Port scans"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -421,7 +421,7 @@
             "Google Pay",
             "Apple Pay"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -433,19 +433,19 @@
             "Contact information",
             "First and last name"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "Which of the following are commonly used port scanning applications?\n\nSelect two correct answers",
+        "question": "Which of the following are commonly used port scanning applications?\n\nSelect two answer answers",
         "choices": [
             "Nmap",
             "Zenmap",
             "Port number",
             "Sequence number"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
@@ -458,7 +458,7 @@
             "To protect cloud-based data centers",
             "To simulate possible war scenarios among nations"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -468,7 +468,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
@@ -481,7 +481,7 @@
             "Race conditions",
             "Weaknesses in security practices"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -492,7 +492,7 @@
             "Connections to the port will be denied",
             "A service is listening on the port"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -504,7 +504,7 @@
             "To provide standards for new encryption techniques",
             "To design next generation routers and switches that are less prone to cyber attacks"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -514,7 +514,7 @@
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -527,7 +527,7 @@
             "Network layer firewall",
             "Application layer firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -537,12 +537,12 @@
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
     {
-        "question": "Which of the following items are states of data?\nChoose three correct choices",
+        "question": "Which of the following items are states of data?\nChoose three answer choices",
         "choices": [
             "Processing",
             "Transmission",
@@ -551,7 +551,7 @@
             "ASCII",
             "Text"
         ],
-        "correct": [
+        "answer": [
             0,
             1,
             2
@@ -566,7 +566,7 @@
             "Access control problems",
             "Weaknesses in security practices"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -576,19 +576,22 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             1
         ]
     },
     {
-        "question": "Which of the following tools used for incident detection can be used to detect anomalous behavior, command and control traffic, and detect infected hosts?\n\nChoose two correct answers",
+        "question": "Which of the following tools used for incident detection can be used to detect anomalous behavior, command and control traffic, and detect infected hosts?\n\nChoose two answer answers",
         "choices": [
             "Honeypot",
             "Intrusion detection system",
             "Reverse proxy server",
             "NetFlow",
-            "Nmap",
-            "Honeypot"
+            "Nmap"
+        ],
+        "answer": [
+            0,
+            1
         ]
     },
     {
@@ -597,7 +600,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -607,7 +610,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -617,7 +620,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -631,7 +634,7 @@
             "Microsoft Technology Associate Security Fundamentals",
             "CompTIA Security+"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -643,7 +646,7 @@
             "A virus focuses on gaining privileged access to a device, whereas a worm does not",
             "A virus can be used to launch a DoS attack (but not a DDoS), but a worm can be used to launch both DoS and DDoS attacks"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -654,7 +657,7 @@
             "A service is listening on the port",
             "There was no reply from the host"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -666,19 +669,19 @@
             "IDS",
             "NetFlow"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "What names are given to a database where all cryptocurrency transactions are recorded?\n\nSelect two correct choices",
+        "question": "What names are given to a database where all cryptocurrency transactions are recorded?\n\nSelect two answer choices",
         "choices": [
             "Blockchain",
             "Ledger",
             "Table",
             "Spreadsheet"
         ],
-        "correct": [
+        "answer": [
             0,
             1
         ]
@@ -692,7 +695,7 @@
             "Transport layer firewall",
             "Network address translation firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -702,7 +705,7 @@
             "True",
             "False"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -714,7 +717,7 @@
             "For government access",
             "To allow developers to debug software"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -727,7 +730,7 @@
             "Race conditions",
             "Non-validated input"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -741,7 +744,7 @@
             "ISC2 Certified Information Systems Security Professional",
             "CompTIA Security+"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -754,17 +757,17 @@
             "Non-validated input",
             "Weaknesses in security practices"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "During a meeting with the Marketing department, a representative from IT discusses features of an upcoming product that will be released next year.\n\nIs this employee’s behavior ethical or unethical?",
+        "question": "During a meeting with the Marketing department, a representative from IT discusses features of an upcoming product that will be released next year.\n\nIs this employee's behavior ethical or unethical?",
         "choices": [
             "Ethical",
             "Unethical"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -776,7 +779,7 @@
             "Spear phishing",
             "Trojan horse"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -790,7 +793,7 @@
             "Microsoft Technology Associate Security Fundamentals",
             "CompTIA Security+"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -804,7 +807,7 @@
             "Transport layer firewall",
             "Network address translation firewall"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -818,7 +821,7 @@
             "ISACA CSX Cybersecurity Fundamentals",
             "ISC2 Certified Information Systems Security Professional"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -831,7 +834,7 @@
             "Application layer firewall",
             "Proxy server"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -844,7 +847,7 @@
             "Network layer firewall",
             "Reverse proxy server"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -856,7 +859,7 @@
             "Vulnerability scanning",
             "Business continuity"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
@@ -869,19 +872,19 @@
             "Race conditions",
             "Non-validated input"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     },
     {
-        "question": "In networking, what name is given to the identifier at both ends of a transmission to ensure that the right data is passed to the correct application?",
+        "question": "In networking, what name is given to the identifier at both ends of a transmission to ensure that the right data is passed to the answer application?",
         "choices": [
             "Port number",
             "Sequence number",
             "IP address",
             "MAC address"
         ],
-        "correct": [
+        "answer": [
             0
         ]
     }
