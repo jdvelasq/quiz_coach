@@ -887,5 +887,540 @@
         "answer": [
             0
         ]
-    }
+    },
+    {
+        "question": "What is the only way of ensuring that deleted files on your computer are irrecoverable?",
+        "choices": [
+            "Physically destroy the hard drive",
+            "Using a software program such as SDelete or Secure Empty Trash",
+            "Emptying your computer's recycle bin"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What cyber attackers make political statements in order to raise awareness about issues that are important to them",
+        "choices": [
+            "Hacktivist",
+            "Script kiddie",
+            "State-sponsored attackers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What cyber attackers gather intelligence or commit sabotage on specific goals on behalf of their government",
+        "choices": [
+            "State-sponsored attackers",
+            "Hacktivist",
+            "Script kiddie"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What cyber attackers use existing tools on the Internet to launch a cyber attack",
+        "choices": [
+            "Script kiddie",
+            "State-sponsored attackers",
+            "Hacktivist"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Stuxnet malware was designed for which primary purpose?",
+        "choices": [
+            "To cause physical damage to equipment controlled by computers",
+            "To cause serious harm to workers in a nuclear enrichment plant",
+            "To hijack and take control of targeted computers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are the foundational principles for protecting information systems as outlined in the McCumber Cube?",
+        "choices": [
+            "Confidentiality",
+            "Integrity",
+            "Availability",
+            "Access",
+            "Scalability",
+            "Intervention"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which of the following methods can be used to ensure confidentiality of information?\n\nChoose three correct answers",
+        "choices": [
+            "Data encryption",
+            "File permission settings",
+            "Username ID and password",
+            "Two-factor authentication",
+            "Backup",
+            "Version control"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What level of cyber protection does your online activit require?",
+        "choices": [
+            "Personal",
+            "Organizational",
+            "Goverment"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What level of cyber protection does a customer database require?",
+        "choices": [
+            "Personal",
+            "Organizational",
+            "Goverment"
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "What level of cyber protection does economic stability require?",
+        "choices": [
+            "Personal",
+            "Organizational",
+            "Goverment"
+        ],
+        "answer": [
+            2
+        ]
+    },
+    {
+        "question": "Which of the following pieces of information would be classified as personal data?\n\nChoose three correct answers",
+        "choices": [
+            "Social security number",
+            "Driver license number",
+            "Date and place of birth",
+            "Job title",
+            "IP address",
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Why might internal security threats cause greater damage to an organization than external security threats?",
+        "choices": [
+            "Internal users have direct access to the infrastructure devices",
+            "Internal users have better hacking skills",
+            "Internal users can access the organizational data without authentication",
+            "Internal users can access the infrastructure devices through the Internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is a key motivation of a white hat attacker?",
+        "choices": [
+            "Discovering weaknesses of networks and systems to improve the security level of these systems",
+            "Taking advantage of any vulnerability for illegal personal gain",
+            "Fine tuning network devices to improve their performance and efficiency",
+            "Studying operating systems of various platforms to develop a new system"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following examples illustrates how malware might be concealed?",
+        "choices": [
+            "An email is sent to the employees of an organization with an attachment that looks like an antivirus update, but the attachment actually consists of spyware",
+            "An attack is launched against the public website of an online retailer with the objective of blocking its response to visitors",
+            "A botnet of zombies carry personal information back to the hacker",
+            "A hacker uses techniques to improve the ranking of a website so that users are redirected to a malicious site"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the primary goal of a DoS attack?",
+        "choices": [
+            "To prevent the target server from being able to handle additional requests",
+            "To scan the data on the target server",
+            "To facilitate access to external networks",
+            "To obtain all addresses in the address book within the server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of attack allows an attacker to use a brute-force approach?",
+        "choices": [
+            "Password cracking",
+            "Social engineering",
+            "Denial of service",
+            "Packet sniffing"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A set of changes done to any program or application with the aim of updating, fixing or improving it is often referred to as what?",
+        "choices": [
+            "A patch",
+            "An install",
+            "A hack",
+            "A fix"
+        ],
+    },
+    {
+        "question": "Which of the following should be carried out to address known software vulnerabilities of a specific application?",
+        "choices": [
+            "Install a security patch",
+            "Change the hardware",
+            "Remove the application",
+            "Change the software"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What software vulnerability occurs when data is written beyond the limits of memory areas that are allocated to an application",
+        "choices": [
+            "Buffer overflow",
+            "Race condition",
+            "Access control"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What software vulnerability occurs when an ordered or timed set of processes is disrupted or altered by an exploit",
+        "choices": [
+            "Buffer overflow",
+            "Race condition",
+            "Access control",
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "What software vulnerability occurs through the improper use of practices that manage equipment, data or applications",
+        "choices": [
+            "Buffer overflow",
+            "Race condition",
+            "Access control",
+        ],
+        "answer": [
+            2
+        ]
+    },
+    {
+        "question": "Where is cryptocurrency stored?",
+        "choices": [
+            "In a wallet",
+            "On an exchange",
+            "In a bank account",
+            "On the blockchain"
+        ],
+        "answer": [
+            2
+        ]
+    },
+    {
+        "question": "Which type of technology can prevent malicious software from monitoring user activities, collecting personal information and producing unwanted pop-up ads on a user computer?",
+        "choices": [
+            "Antispyware",
+            "Password manager",
+            "Firewall",
+            "Two factor authentication"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What should you do in order to make sure that people you live with do not have access to your secure data?",
+        "choices": [
+            "Turn on a firewall",
+            "Set up password protection",
+            "Increase the privacy settings on your browser",
+            "Install antivirus software"
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "Why do IoT devices pose a greater security risk than other computing devices on a network?",
+        "choices": [
+            "IoT devices cannot function on an isolated network with only an Internet connection",
+            "Most IoT devices do not receive frequent software updates",
+            "Most IoT devices do not require an Internet connection and are unable to receive new updates",
+            "IoT devices require unencrypted wireless connections"
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "How can you keep your personal browsing history hidden from other users on a shared computer?",
+        "choices": [
+            "Operate the web browser in private browser mode",
+            "Reboot the computer after closing the web browser",
+            "Move any downloaded files to the recycle bin",
+            "Use only an encrypted connection to access websites"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is an example of two factor authentication?",
+        "choices": [
+            "Your fingerprint and your password",
+            "Your account number and your name",
+            "Your answer to a general knowledge question and your password",
+            "Your password and your username"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "You are looking to print photos that you have saved on a cloud storage account using a third-party online printing service. After successfully logging into the cloud account, you are automatically given access to the third-party online printing service. What allowed this automatic authentication to occur?",
+        "choices": [
+            "The cloud storage service is an approved application for the online printing service",
+            "You are using an unencrypted network which allows the password for the cloud storage service to be viewed by the online printing service",
+            "Your account information for the cloud storage service was intercepted by a malicious application",
+            "The password you entered for the online printing service is the same as the password you use for the cloud storage service"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is a requirement of a strong password?",
+        "choices": [
+            "Use special characters such as ! @ or $",
+            "Use at least six characters",
+            "Use a dictionary word or a common statement that you'll remember"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "You are having difficulty remembering passwords for all of your online accounts. What should you do?",
+        "choices": [
+            "Save the passwords in a centralized password manager program",
+            "Share the passwords with a network administrator or computer technician",
+            "Write the passwords down and keep them out of sight",
+            "Create a single strong password to be used across all online accounts"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How can you prevent others from eavesdropping on network traffic when operating a PC on a public Wi-Fi hotspot?",
+        "choices": [
+            "Connect with a VPN service",
+            "Create unique and strong passwords",
+            "Disable Bluetooth",
+            "Use WPA2 encryption"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which configuration on a wireless router is not considered to be adequate security for a wireless network?",
+        "choices": [
+            "Preventing the broadcast of an SSID",
+            "Enabling wireless security",
+            "Modifying the default SSID and password of a wireless router",
+            "Implementing WPA2 encryption"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology removes direct equipment and maintenance costs from the user for data backups?",
+        "choices": [
+            "A cloud service",
+            "Network attached storage",
+            "A tape",
+            "An external hard drive"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "You have stored your data on a local hard disk. Which method would secure this data from unauthorized access?",
+        "choices": [
+            "Data encryption",
+            "Duplication of the hard drive",
+            "Deletion of sensitive files",
+            "Two factor authentication"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following tools can be used to provide a list of open ports on network devices?",
+        "choices": [
+            "Nmap",
+            "Tracert",
+            "Ping",
+            "Whois"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What name is given to a device that controls or filters traffic going in or out of the network?",
+        "choices": [
+            "Firewall",
+            "Router",
+            "IPS",
+            "VPN"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following tools can perform real-time traffic and port analysis, and can also detect port scans, fingerprinting and buffer overflow attacks?",
+        "choices": [
+            "Snort",
+            "Nmap",
+            "NetFlow",
+            "SIEM"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the correct definition of risk management?",
+        "choices": [
+            "The process of identifying and assessing risk to reduce the impact of threats and vulnerabilities",
+            "The process of transferring risks that cannot be eliminated or mitigated",
+            "The process of accepting risks that cannot be eliminated, mitigated or transferred",
+            "The process of identifying and assessing risk to determine the severity of threats"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the last stage of a pen test?",
+        "choices": [
+            "Analysis and reporting",
+            "Gathering target information",
+            "Scanning",
+            "Maintaining access"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Behavior-based analysis involves using baseline information to detect what?",
+        "choices": [
+            "Anomalies",
+            "Vulnerabilities",
+            "Backdoors",
+            "Risk"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following actions should an organization take in the event of a security breach?",
+        "choices": [
+            "Communicate a call to action to all employees",
+            "Carry out research to uncover what caused the breach",
+            "Contain the information so that it does not go public",
+            "Advise employees to be more careful",
+            "Assume this type of breach won’t happen again"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "How do Cisco ISE and TrustSec work?",
+        "choices": [
+            "They enforce access to network resources by creating role-based access control policies",
+            "They stop sensitive data from being stolen or escaping a network",
+            "They block network traff],ic based on a positive rule or signature match"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the difference between a hacker and a cybersecurity professional?",
+        "choices": [
+            "Cybersecurity professionals must work within legal boundaries",
+            "Hackers have special skills that cybersecurity professionals do not",
+            "Hackers only operate within legal boundaries",
+            "Cybersecurity professionals must not have the same skills as hackers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What can the skills developed by cybersecurity professionals be used for?",
+        "choices": [
+            "Cybersecurity professionals develop many skills that can be used for good or evil",
+            "Cybersecurity professionals develop many skills that can be only be used for good",
+            "Cybersecurity professionals develop many skills that can only be used for evil",
+            "Cybersecurity professionals develop many skills that cannot be used for evil"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
 ]
