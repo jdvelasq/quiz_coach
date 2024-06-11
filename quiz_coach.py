@@ -8,6 +8,9 @@ import textwrap
 def read_questions_from_library(library):
     with open(library, "r") as file:
         questions = json.load(file)
+    print()
+    print(f"{len(questions)} questions loaded from {library}.")
+    print()
     return questions
 
 
