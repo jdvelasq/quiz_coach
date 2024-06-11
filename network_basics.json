@@ -1,0 +1,5397 @@
+[
+    {
+        "question": "What type of network allows computers in a home office or a remote office to connect to a corporate network?",
+        "choices": [
+            "small office home office network",
+            "world wide network",
+            "medium to large network",
+            "smart home network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What can be placed in or on a package so that it can be tracked?",
+        "choices": [
+            "RFID tag",
+            "sensor",
+            "network interface card",
+            "actuator"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A basic unit of information that represents one of two discrete states is known as a:",
+        "choices": [
+            "bit",
+            "electrical signal",
+            "octet",
+            "byte"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When using your credit card to make purchases at several places, the credit card company can use this information to learn about your location and your preferences. This type of personal data is known as:",
+        "choices": [
+            "inferred data",
+            "observed data",
+            "volunteered data",
+            "secret data"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following methods of signal transmission uses frequencies or pulses of light?",
+        "choices": [
+            "optical signals",
+            "wireless signals",
+            "electrical signals"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The capacity of the medium to carry data is known as:",
+        "choices": [
+            "bandwidth",
+            "data rate",
+            "throughput",
+            "speed"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following measurements includes any latency encountered during data transmissions?",
+        "choices": [
+            "throughput",
+            "data rate",
+            "bandwidth",
+            "speed"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following measurements includes any latency encountered during data transmissions?",
+        "choices": [
+            "bits per second",
+            "bytes per second",
+            "total number of bits",
+            "bytes per millisecond",
+            "total number of bytes",
+            "bits per millisecond"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the internet?",
+        "choices": [
+            "a network of networks",
+            "the type of physical media used by computers to access the World Wide Web",
+            "an application used to access the World Wide Web",
+            "a small isolated internal network of a company"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an example of a binary value from everyday life?",
+        "choices": [
+            "a simple light switch",
+            "room temperature",
+            "speed of a traveling car",
+            "brightness of a light bulb"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which category of network components includes wires and cables used in a wired network?",
+        "choices": [
+            "media",
+            "devices",
+            "peripherals",
+            "hosts"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of device is able to create physical movement?",
+        "choices": [
+            "actuator",
+            "sensor",
+            "RFID tag",
+            "console"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are three options for signal transmission on a network? (Choose three.)",
+        "choices": [
+            "radio waves",
+            "electrical pulses",
+            "light pulses",
+            "vibration pulses",
+            "sound waves"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Who owns the internet?",
+        "choices": [
+            "no one person or group",
+            "Bill Gates",
+            "Cisco",
+            "the government"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of connected device is placed on objects to track and monitor them?",
+        "choices": [
+            "RFID tags",
+            "sensors",
+            "actuators",
+            "consoles"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A byte consists of how many bits?",
+        "choices": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": [
+            2
+        ]
+    },
+    {
+        "question": "Which two numbers are possible values of a bit?\n\nChoose two.",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "8",
+            "16"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What measurement is used to indicate thousands of bits per second?",
+        "choices": [
+            "Kbps",
+            "Mbps",
+            "Tbps",
+            "Gbps"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of network must a home user access in order to do online shopping?",
+        "choices": [
+            "the internet",
+            "a SOHO network",
+            "a local area network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A computer that has software installed to provide information such as email or web pages to other devices is known as a:",
+        "choices": [
+            "server",
+            "smart host",
+            "smart phone",
+            "client"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A smart phone uses web browser software to request and display a web page. The smart phone is considered what type of computer?",
+        "choices": [
+            "client",
+            "server",
+            "smart host",
+            "requester"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network where two computers are communicating with each other as both a client and as a server is known as a:",
+        "choices": [
+            "peer-to-peer network",
+            "server-to-server network",
+            "client-to-client network",
+            "client-to-server network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Marjani lives on a farm several kilometers outside of Msolwa, Tanzania. Which of the following end devices is she most likely to use to connect to the internet?\n\nChoose two.",
+        "choices": [
+            "smartphone",
+            "wireless tablet",
+            "wireless router",
+            "network printer",
+            "telepresence endpoint"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Eilert recently got a job with a computer support services company in his hometown of Falun, Sweden. A customer has asked for someone to come connect their home network to the internet. They only have a cable modem. Which of the following intermediary devices would Eilert most likely take with him to the job?",
+        "choices": [
+            "wireless router",
+            "LAN switch",
+            "desktop computer",
+            "multilayer switch",
+            "firewall appliance"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Rosalía works as a community health worker in Rio Claro, Brazil. Most of her time is spent making home visits to provide primary care to people in her community. However, she requires internet access to maintain her patient records and provide videoconferencing with a doctor, when needed. What end device and media type does Rosalía most likely use?\n\nChoose two.",
+        "choices": [
+            "tablet",
+            "wireless media",
+            "WAN media",
+            "desktop computer",
+            "LAN media",
+            "router"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is a service that provides an internet data signal on the same network that delivers broadcast television and phone service?",
+        "choices": [
+            "Cable internet",
+            "Guest access",
+            "Cellular data plan",
+            "Digital Subscriber Line (DSL)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a service that provides high bandwidth, always on, connection using existing land-line telephone wires?",
+        "choices": [
+            "Digital Subscriber Line (DSL)",
+            "Cellular data plan",
+            "Guest access",
+            "Cable internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an internet service that uses mobile phone networks to transmit data?",
+        "choices": [
+            "Cellular data plan",
+            "Digital Subscriber Line (DSL)",
+            "Guest access",
+            "Cable internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of network is defined by two computers that can both send and receive requests for resources?",
+        "choices": [
+            "peer-to-peer",
+            "client/server",
+            "enterprise",
+            "campus"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two functions of end devices on a network?\n\nChoose two.",
+        "choices": [
+            "They originate the data that flows through the network.",
+            "They are the interface between humans and the communication network",
+            "They direct data over alternate paths in the event of link failures.",
+            "They filter the flow of data to enhance security.",
+            "They provide the channel over which the network message travels."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A home user is looking for an ISP connection that provides high speed digital transmission over regular phone lines. What ISP connection type should be used?",
+        "choices": [
+            "DSL",
+            "dial-up",
+            "satellite",
+            "cell modem",
+            "cable modem"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of internet connection would be best for a residence in a remote area without mobile phone coverage or wired connectivity?",
+        "choices": [
+            "satellite",
+            "dial-up",
+            "cellular",
+            "DSL"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term correctly describes the function of an ISP?",
+        "choices": [
+            "responsible for providing the link between a private network and the internet",
+            "responsible for managing local networks",
+            "responsible for the maintenance of SOHO networks",
+            "responsible for providing security on private networks"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which device is an intermediary device?",
+        "choices": [
+            "firewall",
+            "PC",
+            "server",
+            "smart device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which scenario describes a peer-to-peer network?",
+        "choices": [
+            "A user has shared a printer attached to the workstation.",
+            "Users access shared files from a file server.",
+            "A user visits a webpage on the company web site.",
+            "Users print documents from a network printer that has a built-in NIC."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term is used to describe a network device with the primary function of providing information to other devices?",
+        "choices": [
+            "server",
+            "workstation",
+            "console",
+            "client"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an advantage of the peer-to-peer network model?",
+        "choices": [
+            "ease of setup",
+            "scalability",
+            "high level of security",
+            "centralized administration"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a characteristic of a peer-to-peer application?",
+        "choices": [
+            "Each device using the application provides a user interface and runs a background service.",
+            "Each device can act both as a client and a server, but not simultaneously.",
+            "The resources required for the application are centralized.",
+            "One device is designated a server and one device is designated a client for all communications and services."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is a low-power, shorter range wireless technology that is intended to replace wired connectivity for accessories such as speakers or a mouse?",
+        "choices": [
+            "Bluetooth",
+            "NFC",
+            "GPS",
+            "Wi-Fi"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is a wireless communication technology that enables a smartphone to communicate with a payment system within a few centimeters away?",
+        "choices": [
+            "NFC",
+            "GPS",
+            "Bluetooth",
+            "Wi-Fi"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What term is used to describe connecting a mobile device to another mobile device or computer to share a network connection?",
+        "choices": [
+            "tethering",
+            "joining",
+            "syncing",
+            "pairing"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which wireless technology uses a device-pairing process to communicate and operates over short distances of 100 meters?",
+        "choices": [
+            "Bluetooth",
+            "wireless wide-area network",
+            "Wi-Fi",
+            "GPS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What technology enables a cell phone to be used as a hands-free device?",
+        "choices": [
+            "Bluetooth",
+            "Wi-Fi",
+            "4G",
+            "NFC"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A student purchased a new Wi-Fi-enabled tablet computer. What is required to connect this device to the internet?",
+        "choices": [
+            "a wireless LAN",
+            "a 3G or 4G network",
+            "a telephone company",
+            "a mobile phone service provider"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology allows a mobile device to establish wireless communication with another mobile device by touching them together?",
+        "choices": [
+            "NFC",
+            "Bluetooth",
+            "GPS",
+            "4G"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology will allow a mobile device to share an internet connection with other devices via tethering?",
+        "choices": [
+            "Bluetooth",
+            "GPS",
+            "near field communication",
+            "Wi-Fi"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two methods typically used on a mobile device to provide internet connectivity?\n\nChoose two.",
+        "choices": [
+            "cellular",
+            "Wi-Fi",
+            "Bluetooth",
+            "NFC",
+            "GPS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which wireless technology allows a customer to connect to a payment system with a smartphone?",
+        "choices": [
+            "NFC",
+            "Wi-Fi",
+            "GPS",
+            "Bluetooth"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A salesperson is using a smartphone map application to locate a business. What wireless technology enables the smartphone to receive satellite geolocation information for the map application?",
+        "choices": [
+            "GPS",
+            "NFC",
+            "Wi-Fi",
+            "Bluetooth"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What two pieces of information are required when manually connecting either an iOS device or an Android device to a secured wireless network?\n\nChoose two.",
+        "choices": [
+            "the SSID",
+            "the password",
+            "the IP address",
+            "the username"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which wireless technology can be used to connect wireless headphones to a computer?",
+        "choices": [
+            "Bluetooth",
+            "NFC",
+            "Wi-Fi",
+            "4G"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A home router typically only provides wired access to the network. You have to buy a separate device for wireless access.\n\nTrue or False?",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is used to connect a wired device to the internal switch of the home router?",
+        "choices": [
+            "Ethernet port",
+            "Wireless port",
+            "Internet port",
+            "Power port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Certain areas of the electromagnetic spectrum can be used without a permit.\n\nTrue or False?",
+        "choices": [
+            "true",
+            "false"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Wi-Fi, Bluetooth, and cordless phones all use the same frequency ranges.\n\nTrue or False?",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which wired network technology has an inner wire surrounded by a tubular insulating layer, that is then surrounded by a tubular conducting shield.",
+        "choices": [
+            "Coaxial cable",
+            "Fiber-optic cable",
+            "Category 5 cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which organization is responsible for testing wireless LAN devices?",
+        "choices": [
+            "Wi-Fi Alliance",
+            "IETF",
+            "IEEE",
+            "TIA/EIA"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is used to identify a specific wireless network?",
+        "choices": [
+            "the Service Set Identifier (SSID)",
+            "the network mode",
+            "the IP address of the router",
+            "the network address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "If you have devices on your wireless network that are using a variety of different 802.11 standards, then you should set your network to the highest standard to get the best throughput.\n\nTrue or False?",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of wireless communication is based on 802.11 standards?",
+        "choices": [
+            "Wi-Fi",
+            "Cellular WAN",
+            "Bluetooth",
+            "Infrared"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What wireless router configuration would stop outsiders from using your home network?",
+        "choices": [
+            "encryption",
+            "IP address",
+            "router location",
+            "network name"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of device is commonly connected to the Ethernet switch ports on a home wireless router?",
+        "choices": [
+            "DSL modem",
+            "cable modem",
+            "wireless antenna",
+            "LAN device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of network technology is used for low-speed communication between peripheral devices?",
+        "choices": [
+            "Bluetooth",
+            "Ethernet",
+            "802.11",
+            "channels"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What can be used to allow visitor mobile devices to connect to a wireless network and restrict access of those devices to only the internet?",
+        "choices": [
+            "guest SSID",
+            "MAC address filtering",
+            "encryption",
+            "authentication"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What purpose would a home user have for implementing Wi-Fi?",
+        "choices": [
+            "to create a wireless network usable by other devices",
+            "to hear various radio stations",
+            "to connect a keyboard to a PC",
+            "to connect wireless headphones to a mobile device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is another term for the internet port of a wireless router?",
+        "choices": [
+            "WAN port",
+            "LAN port",
+            "local port",
+            "switch port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of network cable consists of 4 pairs of twisted wires?",
+        "choices": [
+            "category 5e",
+            "coaxial",
+            "Ethernet over powerline",
+            "fiber optic"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a characteristic of the network SSID?",
+        "choices": [
+            "It is case sensitive.",
+            "It contains exactly 16 characters.",
+            "It is encrypted by default.",
+            "It is only required for guest access."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a characteristic of the Internet?",
+        "choices": [
+            "It is not centrally governed.",
+            "It is operated by the US government.",
+            "It supports only wired network connections.",
+            "It is localized to specific geographic locations"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What allows digital devices to interconnect and transmit data?",
+        "choices": [
+            "a network",
+            "a sensor",
+            "a global positioning sensor",
+            "a smart phone"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many unique values are possible using a single binary digit?",
+        "choices": [
+            "2",
+            "1",
+            "9",
+            "4",
+            "16",
+            "8"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What data representation is used when a computer or network device is processing data?",
+        "choices": [
+            "binary",
+            "inferred",
+            "readable",
+            "text"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two devices are considered end devices?\n\nChoose two.",
+        "choices": [
+            "printer",
+            "laptop",
+            "switch",
+            "hub",
+            "router"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three devices are considered intermediate devices in a network?\n\nChoose three.",
+        "choices": [
+            "wireless access point",
+            "switch",
+            "router",
+            "workstation",
+            "server",
+            "network printer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two types of wired high-speed Internet connections?\n\nChoose two.",
+        "choices": [
+            "DSL",
+            "cable",
+            "cellular",
+            "dial-up",
+            "satellite"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "A user is looking for a wireless headphone for listening to songs stored on a smartphone. What wireless technology would the headphone use?",
+        "choices": [
+            "Bluetooth",
+            "infrared",
+            "3G/4G",
+            "Wi-Fi"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two methods typically used on a mobile device to provide internet connectivity?\n\nChoose two.",
+        "choices": [
+            "Wi-Fi",
+            "cellular",
+            "NFC",
+            "GPS",
+            "Bluetooth"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "A consumer places a smartphone close to a pay terminal at a store and the shopping charge is successfully paid. Which type of wireless technology was used?",
+        "choices": [
+            "NFC",
+            "Wi-Fi",
+            "3G",
+            "Bluetooth"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What information may be requested when pairing devices over Bluetooth?",
+        "choices": [
+            "a PIN",
+            "an IP address",
+            "a username",
+            "the SSID"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user is setting up a home wireless network. Which type of device must the user have in order to establish the wireless network and provide access to the internet for multiple home devices?",
+        "choices": [
+            "wireless router",
+            "patch panel",
+            "hub",
+            "switch"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which feature is characteristic of MAC filtering in wireless networks?",
+        "choices": [
+            "It restricts computer access to a wireless network.",
+            "It is configured on the computer rather than on the router.",
+            "It allows only authorized users to detect the network.",
+            "It encrypts data that is transmitted on a wireless network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which wireless RF band do IEEE 802.11b/g devices use?",
+        "choices": [
+            "2.4 GHz",
+            "900 MHz",
+            "5 GHz",
+            "60 GHz"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology is used to uniquely identify a WLAN network?",
+        "choices": [
+            "SSID",
+            "MAC address table",
+            "WPA",
+            "WEP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What two radio frequency bands are used in home Wireless LANs?\n\nChoose two.",
+        "choices": [
+            "5 GHz",
+            "2.4 GHz",
+            "9 MHz",
+            "5 MHz",
+            "900 GHz"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the order of bandwidth measurement from smallest to largest?",
+        "choices": [
+            "Kbps, Mbps, Gbps, Tbps",
+            "Tbps, Mbps, Kbps, Gbps",
+            "Kbps, Tbps, Mbps, Gbps",
+            "Gbps, Tbps, Mbps, Kbps"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two methods are used to directly connect mobile devices such as tablets and smartphones to a data network?\n\nChoose two.",
+        "choices": [
+            "Wi-Fi",
+            "cellular communications",
+            "Bluetooth",
+            "wired Ethernet",
+            "WiMax"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "In the context of mobile devices, what does the term tethering involve?",
+        "choices": [
+            "connecting a mobile device to another mobile device or computer to share a network connection",
+            "connecting a mobile device to a hands-free headset",
+            "connecting a mobile device to a USB port on a computer in order to charge the mobile device",
+            "connecting a mobile device to a 4G cellular network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which items are collectively referred to as network media?",
+        "choices": [
+            "wires and radio waves",
+            "firewalls and servers",
+            "PCs and laptops",
+            "routers and switches"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement defines a data communications protocol?",
+        "choices": [
+            "a set of rules that govern the communication process",
+            "a set of product standards for types of network devices",
+            "an exchange agreement of network devices among vendors",
+            "an alliance of network device manufacturers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the function of the transport TCP/IP model layer?",
+        "choices": [
+            "supports communication between diverse devices across networks.",
+            "controls hardware devices and media that make up the network.",
+            "determines the best path to forward data through the network.",
+            "represents data to the user, data encoding, and dialog control."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the function of the application TCP/IP model layer?",
+        "choices": [
+            "represents data to the user, data encoding, and dialog control.",
+            "supports communication between diverse devices across networks.",
+            "controls hardware devices and media that make up the network.",
+            "determines the best path to forward data through the network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the function of the internet TCP/IP model layer?",
+        "choices": [
+            "determines the best path to forward data through the network.",
+            "represents data to the user, data encoding, and dialog control.",
+            "supports communication between diverse devices across networks.",
+            "controls hardware devices and media that make up the network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the function of the network accesss TCP/IP model layer?",
+        "choices": [
+            "controls hardware devices and media that make up the network.",
+            "determines the best path to forward data through the network.",
+            "represents data to the user, data encoding, and dialog control.",
+            "supports communication between diverse devices across networks."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three acronyms/initialisms represent standards organizations?\n\nChoose three.",
+        "choices": [
+            "IEEE",
+            "IANA",
+            "IETF",
+            "OSI",
+            "TCP/IP",
+            "MAC"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which protocol function is responsible for managing the individual conversations between web servers and web clients when a network client is visiting a web site?",
+        "choices": [
+            "transport protocol",
+            "application protocol",
+            "internet protocol",
+            "network access protocol"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol function is responsible for taking the segments from transport protocol, encapsulating them into packets, and assigning them with appropriate addresses when a network client is visiting a web site?",
+        "choices": [
+            "internet protocol",
+            "transport protocol",
+            "application protocol",
+            "network access protocol"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol function is responsible for governing the way a web server and a web client interact when a network client is visiting a web site?",
+        "choices": [
+            "application protocol",
+            "transport protocol",
+            "internet protocol",
+            "network access protocol"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol function is responsible for preparing packets to be transmitted over the network media when a network client is visiting a web site?",
+        "choices": [
+            "network access protocol",
+            "transport protocol",
+            "application protocol",
+            "internet protocol"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two OSI model layers have the same functionality as two layers of the TCP/IP model?\n\nChoose two.",
+        "choices": [
+            "transport",
+            "network",
+            "data link",
+            "session",
+            "physical"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which three layers of the OSI model map to the application layer of the TCP/IP model?\n\nChoose three.",
+        "choices": [
+            "session",
+            "application",
+            "presentation",
+            "transport",
+            "network",
+            "data link"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which three elements do all communication methods have in common?\n\nChoose three.",
+        "choices": [
+            "message source",
+            "message destination",
+            "transmission medium",
+            "message priority",
+            "message data",
+            "message type"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which two applications are suitable for deploying coaxial cables?\n\nChoose two.",
+        "choices": [
+            "to connect a TV set to the wall plug at home",
+            "to connect various components in a satellite communication system",
+            "to connect data centers with high bandwidth requirements over long distances",
+            "to connect network devices in backbone networks",
+            "to connect PC computers in an office"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What two characteristics describe an Ethernet cable?\n\nChoose two.",
+        "choices": [
+            "4 pairs of twisted cables",
+            "color coded pairs of cables",
+            "single copper core surrounded by a layer of insulation",
+            "glass core surrounded by multiple layers for isolation and protection",
+            "plastic core surrounded by multiple layers for isolation and protection"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network technician is researching the use of fiber optic cabling in a new technology center. Which two issues should be considered before implementing fiber optic media?\n\nChoose two.",
+        "choices": [
+            "Fiber optic cabling requires different termination and splicing expertise from what copper cabling requires.",
+            "Fiber optic provides higher data capacity but is more expensive than copper cabling.",
+            "Fiber optic cabling requires specific grounding to be immune to EMI.",
+            "Fiber optic cable is able to withstand rough handling.",
+            "Fiber optic cabling is susceptible to loss of signal due to RFI."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one advantage of using fiber optic cabling rather than copper cabling?",
+        "choices": [
+            "It is able to carry signals much farther than copper cabling.",
+            "It is able to be installed around sharp bends.",
+            "It is easier to terminate and install than copper cabling.",
+            "It is usually cheaper than copper cabling."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which criterion can be used to select the appropriate type of network media for a network?",
+        "choices": [
+            "the environment where the selected medium is to be installed",
+            "the number of intermediary devices that are installed in the network",
+            "the cost of the end devices that are used in the network",
+            "the types of data that need to be prioritized"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which data encoding technology is used in fiber-optic cables?",
+        "choices": [
+            "pulses of light",
+            "modulation of electrical voltage",
+            "electrical pulses",
+            "modulation of specific frequencies of electromagnetic waves"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of address does a switch use to build the MAC address table?",
+        "choices": [
+            "source MAC address",
+            "source IP address",
+            "destination IP address",
+            "destination MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How much data can be encapsulated into a normal sized Ethernet frame before it is sent over the network?",
+        "choices": [
+            "46 to 1500 bytes",
+            "64 to 1518 bytes",
+            "32 to 1500 bytes",
+            "0 to 1024 bytes"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two actions performed by a Cisco switch?\n\nChoose two.",
+        "choices": [
+            "utilizing the MAC address table to forward frames via the destination MAC address",
+            "using the source MAC addresses of frames to build and maintain a MAC address table",
+            "forwarding frames with unknown destination IP addresses to the default gateway",
+            "examining the destination MAC address to add new entries to the MAC address table",
+            "building a routing table that is based on the first IP address in the frame header"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which information does a switch use to populate the MAC address table?",
+        "choices": [
+            "the source MAC address and the incoming port",
+            "the source and destination MAC addresses and the outgoing port",
+            "the source MAC address and the outgoing port",
+            "the destination MAC address and the outgoing port",
+            "the destination MAC address and the incoming port",
+            "the source and destination MAC addresses and the incoming port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term refers to the process of placing one message format inside another message format?",
+        "choices": [
+            "encapsulation",
+            "encoding",
+            "segmenting",
+            "manipulation"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The rules that govern network communications including the message format, message size, timing, and encapsulation, are known as network",
+        "choices": [
+            "protocols",
+            "messaging",
+            "signaling",
+            "encoding"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The IETF (Internet Engineering Task Force) records and publishes internet standards in documents known as",
+        "choices": [
+            "Request for Comments (RFC)",
+            "Internet Specification Standards (ISS)",
+            "Internet Protocol Standards (IPS)",
+            "IETF Standards Documents (ISD)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is responsible for guaranteeing reliable delivery?",
+        "choices": [
+            "TCP",
+            "Ethernet",
+            "HTTP",
+            "IP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used by routers to forward messages?",
+        "choices": [
+            "IP",
+            "HTTP",
+            "TCP",
+            "Ethernet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two layers of the OSI Model maps directly as the single network access layer in the TCP/IP model?\n\nChoose two",
+        "choices": [
+            "data link",
+            "physical",
+            "application",
+            "presentation",
+            "network",
+            "session",
+            "transport"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "IP addressing occurs at what layer of the OSI Model?",
+        "choices": [
+            "transport",
+            "data link",
+            "physical",
+            "application",
+            "presentation",
+            "network",
+            "session"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What networking term describes a particular set of rules at one layer that govern communication at that layer?",
+        "choices": [
+            "protocol",
+            "duplex",
+            "encapsulation",
+            "error checking"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which layer of the OSI model defines services to segment and reassemble data for individual communications between end devices?",
+        "choices": [
+            "transport",
+            "application",
+            "presentation",
+            "session",
+            "network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of the OSI physical layer?",
+        "choices": [
+            "controlling access to media",
+            "transmitting bits across the local media",
+            "performing error detection on received frames",
+            "exchanging frames between nodes over physical network media"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement is correct about network protocols?",
+        "choices": [
+            "They define how messages are exchanged between the source and the destination.",
+            "Network protocols define the type of hardware that is used and how it is mounted in racks.",
+            "They all function in the network access layer of TCP/IP.",
+            "They are only required for exchange of messages between devices on remote networks."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of protocols in data communications?",
+        "choices": [
+            "providing the rules required for a specific type of communication to occur",
+            "specifying the bandwidth of the channel or medium for each type of communication",
+            "specifying the device operating systems that will support the communication",
+            "dictating the content of the message sent during communication"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term refers to the set of rules that define how a network operates?",
+        "choices": [
+            "standard",
+            "protocol",
+            "model",
+            "domain"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three layers of the OSI model make up the application layer of the TCP/IP model?",
+        "choices": [
+            "session",
+            "presentation",
+            "application",
+            "data link",
+            "network",
+            "transport"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which organization publishes and manages the Request for Comments (RFC) documents?",
+        "choices": [
+            "IETF",
+            "IEEE",
+            "ISO",
+            "TIA/EIA"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two OSI model layers have the same functionality as a single layer of the TCP/IP model?  \n\nChoose two",
+        "choices": [
+            "data link",
+            "physical",
+            "network",
+            "session",
+            "transport"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which of the following is NOT a criterion for choosing a network media?",
+        "choices": [
+            "The type of data that can be transmitted",
+            "The environment in which the media is installed",
+            "The cost of installing the media",
+            "The maximum distance that the media can successfully carry a signal"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the most common type of wired media used by TV companies to connect and carry signals to a set-top box within a home?",
+        "choices": [
+            "coaxial cable",
+            "twisted-pair cable",
+            "fiber-optic cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of wired media is used to carry digital information at very high speeds over long distances?",
+        "choices": [
+            "fiber-optic cable",
+            "coaxial cable",
+            "twisted-pair cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the most common type of wired media to connect end devices to an Ethernet LAN?",
+        "choices": [
+            "twisted-pair cable",
+            "fiber-optic cable",
+            "coaxial cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two common media used in networks?\n\nChoose two.",
+        "choices": [
+            "copper",
+            "fiber",
+            "water",
+            "nylon",
+            "wood"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which type of network cable is commonly used to connect office computers to the local network?",
+        "choices": [
+            "twisted-pair cable",
+            "coaxial cable",
+            "glass fiber-optic cable",
+            "plastic fiber-optic cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three factors should be considered when choosing the appropriate network media?\n\nChoose three.",
+        "choices": [
+            "the environment in which the media is installed",
+            "the amount of data and the data transfer rate desired",
+            "the distance between hosts that the media will connect",
+            "the speed of the CPU and amount of memory in servers",
+            "the data security and fault tolerance requirement",
+            "the operating systems used on network devices in the network"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What makes fiber preferable to copper cabling for interconnecting buildings?\n\nChoose three.",
+        "choices": [
+            "greater distances per cable run",
+            "limited susceptibility to EMI/RFI",
+            "greater bandwidth potential",
+            "durable connections",
+            "lower installation cost",
+            "easily terminated"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of network media carries data encoded into electrical impulses?",
+        "choices": [
+            "copper cable",
+            "wireless media",
+            "fiber-optic cable",
+            "cellular communication media"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two types of network media carries data encoded into electrical impulses?\n\nChoose two.",
+        "choices": [
+            "coaxial cable",
+            "twisted-pair cable",
+            "wireless media",
+            "glass fiber-optic cable",
+            "plastic fiber-optic cable"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which type of network media carries data encoded into impulses of light?",
+        "choices": [
+            "fiber-optic cable",
+            "coaxial cable",
+            "wireless media",
+            "twisted-pair cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of using twisted pairs of wires in an Ethernet cable?",
+        "choices": [
+            "to reduce interference",
+            "to provide higher bandwidth",
+            "to identify paths of data flow",
+            "to ensure that the transmission of electrical signals is extended over a longer distance"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The process of prepending protocol information with information from another protocol is called",
+        "choices": [
+            "encapsulation",
+            "packetizing",
+            "framing",
+            "encoding"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When an Ethernet frame is sent out an interface, the destination MAC address indicates:",
+        "choices": [
+            "The MAC address of the device, which is on this network, that will receive the Ethernet frame.",
+            "The MAC address of the NIC card of a device, which is on this network or another network, that will receive the Ethernet frame.",
+            "The MAC address of the NIC card that sent the Ethernet frame.",
+            "The MAC address of the router."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which Ethernet frame field indicates the beginning of an Ethernet frame?",
+        "choices": [
+            "Preamble and SFD",
+            "Destination MAC Address",
+            "Type/Length",
+            "FCS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The Ethernet protocol is at what layer of the OSI Model?",
+        "choices": [
+            "Layer 2 Data Link",
+            "Layer 4 Transport",
+            "Layer 1 Physical",
+            "Layer 3 Network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Ethernet switches make their forwarding decision based on what field of the Ethernet frame?",
+        "choices": [
+            "Destination MAC address",
+            "FCS",
+            "Type/Length",
+            "SFD (Start Frame Delimiter)",
+            "Source MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Ethernet switches add entries to their MAC address table based on what field of the Ethernet frame?",
+        "choices": [
+            "source MAC address",
+            "destination MAC address",
+            "FCS",
+            "SFD (Start Frame Delimiter)",
+            "Type/Length"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When a switch receives an Ethernet frame and the destination MAC address of that frame is not in its MAC address table, the switch will:",
+        "choices": [
+            "Forward the frame out all ports except in the incoming port.",
+            "Add the Source MAC address to the table.",
+            "Add the Destination MAC address to the table.",
+            "Drop the frame."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Ethernet hubs are considered:",
+        "choices": [
+            "obsolete",
+            "cutting-edge",
+            "a wireless device",
+            "a security device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What will a Layer 2 switch do when the destination MAC address of a received frame is not in the MAC table?",
+        "choices": [
+            "It forwards the frame out of all ports except for the port at which the frame was received.",
+            "It initiates an ARP request.",
+            "It broadcasts the frame out of all ports on the switch.",
+            "It notifies the sending host that the frame cannot be delivered."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which network device has the primary function to send data to a specific destination based on the information found in the MAC address table?",
+        "choices": [
+            "switch",
+            "hub",
+            "router",
+            "modem"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What addressing information is recorded by a switch to build its MAC address table?",
+        "choices": [
+            "the source Layer 2 address of incoming frames",
+            "the destination Layer 3 address of incoming packets",
+            "the destination Layer 2 address of outgoing frames",
+            "the source Layer 3 address of outgoing packets"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of the FCS field in a frame?",
+        "choices": [
+            "to determine if errors occurred in the transmission and reception",
+            "to obtain the MAC address of the sending node",
+            "to verify the logical address of the sending node",
+            "to compute the CRC header for the data field"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one function of a Layer 2 switch?",
+        "choices": [
+            "determines which interface is used to forward a frame based on the destination MAC address",
+            "forwards data based on logical addressing",
+            "duplicates the electrical signal of each frame to every port",
+            "learns the port assigned to a host by examining the destination MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which information does a switch use to keep the MAC address table information current?",
+        "choices": [
+            "the source MAC address and the incoming port",
+            "the destination MAC address and the incoming port",
+            "the destination MAC address and the outgoing port",
+            "the source and destination MAC addresses and the incoming port",
+            "the source and destination MAC addresses and the outgoing port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What process is used to place one message inside another message for transfer from the source to the destination?",
+        "choices": [
+            "encapsulation",
+            "access control",
+            "decoding",
+            "flow control",
+            "the source MAC address and the incoming port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three fields are found in an 802.3 Ethernet frame?\n\n",
+        "choices": [
+            "source physical address",
+            "frame check sequence",
+            "destination physical address",
+            "source logical address",
+            "media type identifier",
+            "destination logical address"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What will a host on an Ethernet network do if it receives a frame with a unicast destination MAC address that does not match its own MAC address?",
+        "choices": [
+            "It will discard the frame",
+            "It will forward the frame to the next host",
+            "It will remove the frame from the media",
+            "It will strip off the data-link frame to check the destination IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement is correct about Ethernet switch frame forwarding decisions?",
+        "choices": [
+            "Frame forwarding decisions are based on MAC address and port mappings in the MAC Address table.",
+            "Frames addressed to unknown MAC addresses are dropped.",
+            "Switches build up their MAC Address tables based on the destination MAC address of incoming frames.",
+            "Unicast frames are always forwarded regardless of the destination MAC address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement is true about the TCP/IP and OSI models?",
+        "choices": [
+            "The TCP/IP transport layer and OSI Layer 4 provide similar services and functions.​",
+            "The first three OSI layers describe general services that are also provided by the TCP/IP internet layer.​",
+            "The TCP/IP network access layer has similar functions to the OSI network layer.​",
+            "The OSI Layer 7 and the TCP/IP application layer provide identical functions."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of network cable is commonly used in backbone networks and telephone companies?",
+        "choices": [
+            "fiber-optic cable",
+            "twisted-pair cable",
+            "coaxial cable",
+            "shielded twisted-pair cable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 10.5.4.100 255.255.255.0. What is the network address of Host-A?",
+        "choices": [
+            "10.5.4.0",
+            "10.5.0.0",
+            "10.0.0.0",
+            "10.5.4.100"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 172.16.4.100 255.255.0.0. What is the network address of Host-A?",
+        "choices": [
+            "172.16.0.0",
+            "172.16.4.0",
+            "172.16.4.100",
+            "172.0.0.0"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 10.5.4.100 255.255.255.0. Which of the following IPv4 addresses would be on the same network as Host-A?\n\nChoose all that apply",
+        "choices": [
+            "10.5.4.99",
+            "10.5.4.1",
+            "10.5.100.4",
+            "10.5.0.1",
+            "10.0.0.98"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 172.16.4.100 255.255.0.0. Which of the following IPv4 addresses would be on the same network as Host-A\n\n?Choose all that apply",
+        "choices": [
+            "172.16.0.1",
+            "172.16.4.99",
+            "172.17.4.99",
+            "172.18.4.1",
+            "172.17.4.1"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 192.168.1.50 255.255.255.0. Which of the following IPv4 addresses would be on the same network as Host-A?\n\nChoose all that apply",
+        "choices": [
+            "192.168.1.1",
+            "192.168.1.100",
+            "192.168.0.1",
+            "192.168.0.100",
+            "192.168.2.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What criterion must be followed in the design of an IPv4 addressing scheme for end devices?",
+        "choices": [
+            "Each IP address must be unique within the local network.",
+            "Each IP address must match the address that is assigned to the host by DNS.",
+            "Each IP address needs to be compatible with the MAC address.",
+            "Each local host should be assigned an IP address with a unique network component."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many octets exist in an IPv4 address?",
+        "choices": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two parts are components of an IPv4 address?\n\nChoose two.",
+        "choices": [
+            "network portion",
+            "host portion",
+            "subnet portion",
+            "logical portion",
+            "physical portion",
+            "broadcast portion"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the purpose of the subnet mask in conjunction with an IP address?",
+        "choices": [
+            "to determine the subnet to which the host belongs",
+            "to uniquely identify a host on a network",
+            "to identify whether the address is public or private",
+            "to mask the IP address to outsiders"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A technician is setting up equipment on a network. Which three devices will need IP addresses?\n\nChoose three.",
+        "choices": [
+            "a printer with an integrated NIC",
+            "a server with two NICs",
+            "an IP phone",
+            "a web camera that is attached directly to a host",
+            "a wireless mouse",
+            "a PDA that is attached to a networked workstation"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which statement describes the relationship of a physical network and logical IPv4 addressed networks?",
+        "choices": [
+            "A physical network can connect multiple devices of different IPv4 logical networks.",
+            "A local physical network supports one IPv4 logical network.",
+            "All devices connected to a physical network need to belong to the same IPv4 logical network.",
+            "End devices on different IPv4 logical networks can communicate with each other if they all connect to the same switch."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How large are IPv4 addresses?",
+        "choices": [
+            "32",
+            "8",
+            "16",
+            "64",
+            "128"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the network number for an IPv4 address 172.16.34.10 with the subnet mask of 255.255.255.0?",
+        "choices": [
+            "172.16.34.0",
+            "10",
+            "34.10",
+            "172.16.0.0"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two features of IPv4 addresses?\n\nChoose two.",
+        "choices": [
+            "IPv4 is a logical addressing scheme.",
+            "An IPv4 addressing scheme is hierarchical.",
+            "An IPv4 address contains 8 octets.",
+            "IPv4 addresses are only used for communications on the internet.",
+            "An IPv4 address is bound to a network interface card to make it unique."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Consider the group of five IPv4 addresses each with the subnet mask of 255.255.255.0. Which two IPv4 addresses belong to the same local network?\n\nChoose two.",
+        "choices": [
+            "192.168.10.2",
+            "192.168.10.56",
+            "193.168.10.16",
+            "192.167.10.74",
+            "192.168.100.62"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "The IT group needs to design and deploy IPv4 network connectivity in a new high school computer lab. The network design requires multiple logical networks be deployed on one physical network.  Which technology is required to enable computers on different logical networks to communicate with each other?",
+        "choices": [
+            "routing",
+            "hosting",
+            "mapping",
+            "switching"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Indique which addresses belongs to a private newtork",
+        "choices": [
+            "172.16.35.2",
+            "192.168.3.5",
+            "192.168.11.5",
+            "172.16.30.30",
+            "10.55.3.168",
+            "192.0.3.15",
+            "64.104.0.22",
+            "209.165.201.30"
+        ],
+        "answer": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "question": "Which two statements are correct about private IPv4 addresses?\n\nChoose two.",
+        "choices": [
+            "Private IPv4 addresses are assigned to devices within an organization’s intranet (internal network).",
+            "Any organization (home, school, office, company) can use the 10.0.0.0/8 address.",
+            "172.99.1.1 is a private IPv4 address.",
+            "Internet routers will typically forward any packet with a destination address that is a private IPv4 address."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which two statements are correct about public IPv4 addresses?\n\nChoose two",
+        "choices": [
+            "To access a device over the internet, the destination IPv4 address must be a public address.",
+            "Public IPv4 address exhaustion is a reason why there are private Ipv4 addresses and why organizations are transitioning to IPv6.",
+            "Public IPv4 addresses are allowed to be assigned to devices within an organization’s intranet (internal network).",
+            "192.168.1.10 is a public IPv4 address."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which organization or group of organizations receives IP addresses from IANA and is responsible for allocating these addresses to ISPs and some organizations?",
+        "choices": [
+            "RIRs",
+            "Tier 1 ISPs",
+            "IEEE",
+            "IETF"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which devices will not forward an IPv4 broadcast packet by default?",
+        "choices": [
+            "router",
+            "Ethernet switch",
+            "Windows PC",
+            "None of the above. All devices forward IPv4 broadcast packets by default."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two situations are the result of excessive broadcast traffic?\n\nChoose two.",
+        "choices": [
+            "slow network operations",
+            "slow device operations",
+            "when the router has to forward an excessive number of packets",
+            "when devices on all adjacent networks are affected"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes one purpose of the subnet mask setting for a host?",
+        "choices": [
+            "It is used to determine to which network the host is connected.",
+            "It is used to describe the type of the subnet.",
+            "It is used to identify the default gateway.",
+            "It is used to determine the maximum number of bits within one packet that can be placed on a particular network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one reason for subnetting an IP network?",
+        "choices": [
+            "to reduce the scope of broadcast flooding",
+            "to increase the number of available host addresses on the network",
+            "to remove the need for network services that rely on broadcasts, such as DHCP",
+            "to ensure that all devices can communicate with each other without requiring a router"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A message is sent to all hosts on a remote network. Which type of message is it?",
+        "choices": [
+            "directed broadcast",
+            "limited broadcast",
+            "multicast",
+            "unicast"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user is unable to access the company server from a computer. On issuing the ipconfig command, the user finds that the IP address of the computer is displayed as 169.254.0.2. What type of address is this?",
+        "choices": [
+            "link-local",
+            "private",
+            "loopback",
+            "experimental"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three IP addresses are private ?\n\nChoose three.",
+        "choices": [
+            "10.1.1.1",
+            "172.16.4.4",
+            "192.168.5.5",
+            "172.32.5.2",
+            "192.167.10.10",
+            "224.6.6.6"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which IP address is an experimental address?",
+        "choices": [
+            "240.2.6.255",
+            "198.133.219.2",
+            "127.0.0.1",
+            "169.254.1.5"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IP address is a loopback address?",
+        "choices": [
+            "127.0.0.1",
+            "240.2.6.255",
+            "198.133.219.2",
+            "169.254.1.5"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IP address is a link-local address?",
+        "choices": [
+            "169.254.1.5",
+            "240.2.6.255",
+            "198.133.219.2",
+            "127.0.0.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which  IP address is a public address?",
+        "choices": [
+            "198.133.219.2",
+            "240.2.6.255",
+            "127.0.0.1",
+            "169.254.1.5"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which network device can serve as a boundary to divide a Layer 2 broadcast domain?",
+        "choices": [
+            "router",
+            "Ethernet bridge",
+            "Ethernet hub",
+            "access point"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the role of IANA?",
+        "choices": [
+            "managing the allocation of IP addresses and domain names",
+            "maintaining standards related to electrical wiring and connectors",
+            "documenting developments for new protocols and updating existing protocols",
+            "promoting the development and evolution of the Internet around the world"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which address prefix range is reserved for IPv4 multicast?",
+        "choices": [
+            "224.0.0.0 - 239.255.255.255",
+            "240.0.0.0 - 254.255.255.255",
+            "169.254.0.0 - 169.254.255.255",
+            "127.0.0.0 - 127.255.255.255"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A high school in New York (school A) is using videoconferencing technology to establish student interactions with another high school (school B) in Russia. The videoconferencing is conducted between two end devices through the internet. The network administrator of school A configures the end device with the IP address 209.165.201.10. The administrator sends a request for the IP address for the end device in school B and the response is 192.168.25.10. Neither school is using a VPN. The administrator knows immediately that this IP will not work. Why?",
+        "choices": [
+            "This is a private IP address.",
+            "This is a loopback address.",
+            "This is a link-local address.",
+            "There is an IP address conflict."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A host is transmitting a broadcast. Which host or hosts will receive it?",
+        "choices": [
+            "all hosts in the same network",
+            "a specially defined group of hosts",
+            "the closest neighbor on the same network",
+            "all hosts on the internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the most important motivating factor for moving to IPv6?",
+        "choices": [
+            "depletion of IPv4 addresses",
+            "better performance with IPv6",
+            "better security with IPv6",
+            "IPv6 addresses that are easier to work with"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "True or False: 4 out of 5 RIRs no longer have enough IPv4 addresses to allocate to customers on a regular basis.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "Which of the following techniques use native IPv6 connectivity?",
+        "choices": [
+            "dual stack",
+            "tunneling",
+            "translation",
+            "all of the above"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an advantage of using IPv6?",
+        "choices": [
+            "more addresses for networks and hosts",
+            "faster connectivity",
+            "higher bandwidth",
+            "more frequencies"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What was the reason for the creation and implementation of IPv6?",
+        "choices": [
+            "to relieve IPv4 address depletion",
+            "to make reading a 32-bit address easier",
+            "to provide more address space in the Internet Names Registry",
+            "to allow NAT support for private addressing"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which letter represents the hexadecimal value of the decimal number 15?",
+        "choices": [
+            "F",
+            "G",
+            "H",
+            "B"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A PC is configured with both an IPv4 and IPv6 address on the same network adapter.  What IPv4 and IPv6 coexistence strategy is implemented on the PC?",
+        "choices": [
+            "Dual stack",
+            "NAT64",
+            "Tunneling",
+            "NAT"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two methods that can be used to shorten the IPv6 address notation?\n\nChoose two.",
+        "choices": [
+            "use of a double colon (::) to represent a string of all zero hextets",
+            "omit all leading zeros from all hextets in the address",
+            "remove all trailing zeros contained in the IPv6 address",
+            "use double colons to represent a string of the same non-zero value"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which network migration technique encapsulates IPv6 packets inside IPv4 packets to carry them over IPv4 network infrastructures?",
+        "choices": [
+            "tunneling",
+            "encapsulation",
+            "translation",
+            "dual-stack"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What does a double colon (::) represent in an IPv6 address notation?",
+        "choices": [
+            "a continuous string of one or more hextets that contain only zeros",
+            "at least eight occurrences of the same non-zero value",
+            "the boundary between the network portion and the host portion of the address",
+            "the beginning of the MAC address assigned to the IPv6 device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "IPv6 increases the IP address size from 32 bits to how many bits?",
+        "choices": [
+            "128",
+            "64",
+            "96",
+            "192",
+            "256"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology enables devices in an IPv6-only network to communicate with devices in an IPv4-only network?",
+        "choices": [
+            "NAT64",
+            "tunneling",
+            "DHCP",
+            "link-local addressing"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IPv6 address notation is valid?",
+        "choices": [
+            "2001:DB8:0:1111::200",
+            "2001:0DB8::ABCD::1234",
+            "ABCD:160D::4GAB:FFAB",
+            "2001::ABCD::"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two statements are correct about IPv4 and IPv6 addresses?\n\nChoose two.",
+        "choices": [
+            "IPv6 addresses are represented by hexadecimal numbers.",
+            "IPv4 addresses are 32 bits in length.",
+            "IPv4 addresses are represented by hexadecimal numbers.",
+            "IPv6 addresses are 32 bits in length.",
+            "IPv4 addresses are 128 bits in length.",
+            "IPv6 addresses are 64 bits in length."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Who is responsible for statically assigning IP addressing information?",
+        "choices": [
+            "the network administrator",
+            "the operating system installed on the device",
+            "the user of the device",
+            "the manufacturer of the device"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What protocol is responsible for automatically assigning IP addressing information?",
+        "choices": [
+            "DHCP",
+            "IETF",
+            "IPv4",
+            "NAT"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the corresponding message type when a client initiating a message to find a DHCP server",
+        "choices": [
+            "DHCPDISCOVER",
+            "DHCPOFFER",
+            "DHCPACK",
+            "DHCPREQUEST"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the corresponding message type when a DHCP server responding to the initial request by a client",
+        "choices": [
+            "DHCPOFFER",
+            "DHCPDISCOVER",
+            "DHCPACK",
+            "DHCPREQUEST"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the corresponding message type when the client accepting the IP address provided by the DHCP server",
+        "choices": [
+            "DHCPREQUEST",
+            "DHCPOFFER",
+            "DHCPDISCOVER",
+            "DHCPACK"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the corresponding message type when the DHCP server confirming that the address lease has been accepted",
+        "choices": [
+            "DHCPACK",
+            "DHCPREQUEST",
+            "DHCPOFFER",
+            "DHCPDISCOVER"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two reasons generally make DHCP the preferred method of assigning IP addresses to hosts on large networks?\n\nChoose two.",
+        "choices": [
+            "It eliminates most address configuration errors.",
+            "It reduces the burden on network support staff.",
+            "It eliminates most address configuration errors.",
+            "It ensures that addresses are only applied to devices that require a permanent address.",
+            "It provides an address only to devices that are authorized to be connected to the network."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which message does an IPv4 host use to reply when it receives a DHCPOFFER message from a DHCP server?",
+        "choices": [
+            "DHCPACK",
+            "DHCPDISCOVER",
+            "DHCPOFFER",
+            "DHCPREQUEST"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which destination IPv4 address does a DHCPv4 client use to send the initial DHCP Discover packet when the client is looking for a DHCP server?",
+        "choices": [
+            "255.255.255.255",
+            "127.0.0.1",
+            "224.0.0.1",
+            "the IP address of the default gateway"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of packet is sent by a DHCP server after receiving a DHCP Discover message?",
+        "choices": [
+            "DHCPOFFER",
+            "DHCPACK",
+            "DHCPDISCOVER",
+            "DHCPREQUEST"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one advantage of using DHCP to assign addresses to mobile devices?",
+        "choices": [
+            "Address leases are temporary and are returned to the pool when the device is turned off.",
+            "Addresses are permanently assigned to the mobile device and are valid on any network.",
+            "Using DHCP creates many more registered IPv4 addresses.",
+            "DHCP enables multiple internal IPv4 addresses to use a single registered global address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of server dynamically assigns an IP address to a host?",
+        "choices": [
+            "DHCP",
+            "ARP",
+            "DNS",
+            "FTP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three statements describe a DHCP Discover message?\n\nChoose three.",
+        "choices": [
+            "The destination IP address is 255.255.255.255.",
+            "The message comes from a client seeking an IP address.",
+            "All hosts receive the message, but only a DHCP server replies.",
+            "The source MAC address is 48 ones (FF-FF-FF-FF-FF-FF).",
+            "The message comes from a server offering an IP address.",
+            "Only the DHCP server receives the message."
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "A host PC is attempting to lease an address through DHCP. What  message is sent by the server to let the client know it is able to use the provided IP information?",
+        "choices": [
+            "DHCPACK",
+            "DHCPDISCOVER",
+            "DHCPREQUEST",
+            "DHCPOFFER"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Consider the group of five IPv4 addresses with the subnet mask of 255.255.255.0. Select three of them that belong to the same logical network.",
+        "choices": [
+            "172.16.45.12",
+            "172.16.45.56",
+            "172.16.45.35",
+            "173.16.45.18",
+            "172.16.35.45"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "How many bits make up an IPv4 address?",
+        "choices": [
+            "32",
+            "48",
+            "64",
+            "128"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Every device on a network needs an IP address to identify itself and communicate on the network.\n\nTrue or False?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IP address is an experimental address?",
+        "choices": [
+            "240.2.6.255",
+            "172.19.20.5",
+            "127.0.0.1",
+            "169.254.1.5"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IP address is a link-local address?",
+        "choices": [
+            "169.254.1.5",
+            "240.2.6.255",
+            "172.19.20.5",
+            "127.0.0.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IP address is a private address?",
+        "choices": [
+            "172.19.20.5",
+            "169.254.1.5",
+            "240.2.6.255",
+            "127.0.0.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A student is helping a friend with a home computer that can no longer access the Internet. Upon investigation, the student discovers that the computer has been assigned the IP address 169.254.100.88. What could cause a computer to get such an IP address?",
+        "choices": [
+            "unreachable DHCP server",
+            "reduced computer power supply output",
+            "interference from surrounding devices",
+            "reduced computer power supply output"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two reasons a network administrator might want to create subnets?\n\nChoose two.",
+        "choices": [
+            "improves network performance",
+            "easier to implement security policies",
+            "simplifies network design",
+            "reduction in number of routers needed",
+            "reduction in number of switches needed"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the purpose of the subnet mask in conjunction with an IP address?",
+        "choices": [
+            "to determine the subnet to which the host belongs",
+            "to mask the IP address to outsiders",
+            "to uniquely identify a host on a network",
+            "to identify whether the address is public or private"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are the three ranges of IP addresses that are reserved for internal private use?\n\nChoose three.",
+        "choices": [
+            "10.0.0.0/8",
+            "192.168.0.0/16",
+            "172.16.0.0/12",
+            "127.16.0.0/12",
+            "192.31.7.0/24",
+            "64.100.0.0/14"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "When the IETF began development of IPv6, what was the goal of implementing this technology?",
+        "choices": [
+            "to relieve IPv4 address depletion",
+            "to make reading a 32-bit address easier",
+            "to provide more address space in the Internet Names Registry",
+            "to increase the limiting 128 bits available in IPv4 to facilitate the growing Internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many binary bits exist within an IPv6 address?",
+        "choices": [
+            "32",
+            "48",
+            "64",
+            "128",
+            "256"
+        ],
+        "answer": [
+            3
+        ]
+    },
+    {
+        "question": "What is the valid most compressed format possible of the IPv6 address 2001:0DB8:0000:AB00:0000:0000:0000:1234?",
+        "choices": [
+            "2001:DB8:0:AB00::1234",
+            "2001:DB8:0:AB:0:1234",
+            "2001:DB8:0:AB::1234",
+            "2001:DB8::AB00::1234"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which shortened address is an accurate representation of the IPv6 address 2001:0db8:0000:0000:ab00:0000:0000:0000?",
+        "choices": [
+            "2001:db8:0:0:ab00::",
+            "2001:db8:0:0:ab::",
+            "2001:db8::ab00::",
+            "2001:db8:0:ab00:0"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one factor increasing the adoption of IPv6 network addresses?",
+        "choices": [
+            "IoT adds millions of network-ready sensors that need IP addresses.",
+            "Devices communicate faster using IPv6 addresses than when using IPv4.",
+            "IPv4 addresses cannot coexist with IPv6 addresses on the internet.",
+            "IPv4 will no longer be supported on mobile devices."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which DHCPv4 message will a client send to accept an IPv4 address that is offered by a DHCP server?",
+        "choices": [
+            "broadcast DHCPREQUEST",
+            "broadcast DHCPACK",
+            "unicast DHCPREQUEST",
+            "unicast DHCPACK"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A DHCP-enabled client PC has just booted. During which two steps will the client PC use broadcast messages when communicating with a DHCP server?\n\nChoose two.",
+        "choices": [
+            "DHCPDISCOVER",
+            "DHCPREQUEST",
+            "DHCPNAK",
+            "DHCPOFFER",
+            "DHCPACK"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which two types of devices are typically assigned static IP addresses?\n\nChoose two.",
+        "choices": [
+            "printers",
+            "web servers",
+            "hubs",
+            "laptops",
+            "workstations"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the destination IP address when an IPv4 host sends a DHCPDISCOVER message?",
+        "choices": [
+            "255.255.255.255",
+            "0.0.0.0",
+            "192.168.1.1",
+            "224.0.0.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "If more than one DHCP server is available on the local network, in which order will DHCP messages be sent between a host and a DHCP server?",
+        "choices": [
+            "discover, offer, request, acknowledgment",
+            "acknowledgment, request, offer, discover",
+            "request, discover, offer, acknowledgment",
+            "request, acknowledgment, discover, offer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "For two hosts that are on the same network, which of the following statements are true?\n\nChoose three.",
+        "choices": [
+            "Both hosts will have different MAC addresses.",
+            "Both hosts will have different IP addresses.",
+            "Both hosts will have the same default gateway address.",
+            "Both hosts will have the same MAC address.",
+            "Both hosts will have the same IP address.",
+            "Both hosts will have different default gateway addresses."
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "For two hosts, each on a different network, which of the following statements are true?\n\nChoose three.",
+        "choices": [
+            "Both hosts will have different default gateway addresses.",
+            "Both hosts will have different MAC addresses.",
+            "Both hosts will have different IP addresses.",
+            "Both hosts will have the same default gateway address.",
+            "Both hosts will have the same IP address.",
+            "Both hosts will have the same MAC address."
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "A computer has to send a packet to a destination host in the same LAN. How will the packet be sent?",
+        "choices": [
+            "The packet will be sent directly to the destination host.",
+            "The packet will be sent to the default gateway first, and then, depending on the response from the gateway, it may be sent to the destination host.",
+            "The packet will first be sent to the default gateway, and then from the default gateway it will be sent directly to the destination host.",
+            "The packet will be sent only to the default gateway."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Typically, which network device would be used to perform NAT for a corporate environment?",
+        "choices": [
+            "router",
+            "DHCP server",
+            "host device",
+            "server",
+            "switch"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which characteristic describes the default gateway of a host computer?",
+        "choices": [
+            "the logical address of the router interface on the same network as the host computer",
+            "the physical address of the switch interface connected to the host computer",
+            "the physical address of the router interface on the same network as the host computer",
+            "the logical address assigned to the switch interface connected to the router"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of configuring a default gateway address on a host?",
+        "choices": [
+            "to identify the device that allows local network computers to communicate with devices on other networks",
+            "to provide a permanent address to a computer",
+            "to identify the network to which a computer is connected",
+            "to identify the logical address of a networked computer and uniquely identify it to the rest of the network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "If the default gateway is configured incorrectly on a host, what is the impact on communications?",
+        "choices": [
+            "The host is unable to communicate with hosts on remote networks.",
+            "The host is unable to communicate on the local network.",
+            "The host is unable to communicate with hosts on both the local and remote networks.",
+            "The host cannot get an IP address from the DHCP server."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three IPv4 network addresses are private IP addresses?",
+        "choices": [
+            "10.0.0.0",
+            "172.16.0.0",
+            "192.168.0.0",
+            "172.32.0.0",
+            "192.157.0.0",
+            "224.6.0.0"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What is the purpose of NAT?",
+        "choices": [
+            "translating private IP addresses to a public registered IP address",
+            "allowing hosts configured with registered public IP addresses to access the internet",
+            "routing private IP addresses over the public internet",
+            "assigning a private IP address to a host for internet access"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the primary advantage of using NAT?",
+        "choices": [
+            "allows a large group of users to share one or more public IP addresses",
+            "allows a large group of users to share the same private IP address within a LAN",
+            "allows static mapping of public inside addresses to private outside addresses",
+            "allows dynamic mapping of registered inside addresses to private outside addresses"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three settings must be configured on a PC in order for it to communicate with devices located across the internet?\n\nChoose three.",
+        "choices": [
+            "IP address",
+            "subnet mask",
+            "default gateway address",
+            "DHCP server address",
+            "hostname"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The default configuration on a home wireless router provides which type of addresses to devices using DHCP?",
+        "choices": [
+            "private IP addresses",
+            "public registered IPv4 addresses",
+            "public registered IPv6 addresses",
+            "vendor-specific MAC addresses"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of intermediary device acts as a boundary between a home wireless network and the internet?",
+        "choices": [
+            "wireless router",
+            "Layer 2 switch",
+            "access point",
+            "DNS server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What destination MAC address would be included in a frame sent from a source device to a destination device on the same local network?",
+        "choices": [
+            "The MAC address of the destination device.",
+            "A broadcast MAC address of FF-FF-FF-FF-FF-FF.",
+            "The MAC address of the local router interface."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What destination MAC address would be included in a frame sent from a source device to a destination device on a remote local network?",
+        "choices": [
+            "The MAC address of the local router interface.",
+            "A broadcast MAC address of FF-FF-FF-FF-FF-FF.",
+            "The MAC address of the destination device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What two protocols are used to determine the MAC address of a known destination device IP address (IPv4 and IPv6)?",
+        "choices": [
+            "ARP",
+            "ND",
+            "DHCP",
+            "DNS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The destination MAC address of an Ethernet broadcast in hexadecimal is:",
+        "choices": [
+            "FFFF.FFFF.FFFF",
+            "48 F digits",
+            "1111.1111.1111",
+            "48 one bits"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When an Ethernet switch receives a frame that is broadcast, it will:",
+        "choices": [
+            "Forward the frame out all ports except the incoming port",
+            "Forward the frame out all ports including the incoming port",
+            "Forward the frame out only ports that need the broadcast",
+            "Forward the frame out only ports that need the broadcast"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has an Ethernet frame to send to Host-B on the same network. Host-A knows the IP address of Host-B but not its MAC address. What message will Host-A send to determine the MAC address of Host B?",
+        "choices": [
+            "ARP request",
+            "ARP broadcast",
+            "ARP discovery",
+            "ARP reply"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "An ARP request is sent out as:",
+        "choices": [
+            "a broadcast, so all devices on the same network will receive it",
+            "a broadcast, so all devices on the network and other networks will receive it",
+            "a unicast, so only the device with the proper IP address will receive it",
+            "a unicast, so only the device with the proper MAC address will receive it"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-B receives an ARP request. Host-B will return an ARP Reply if:",
+        "choices": [
+            "The IP address in the ARP request matches its own IP address.",
+            "The IP and MAC addresses in the ARP request matches its own IP and MAC addresses.",
+            "The MAC address in the ARP request matches its own MAC address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A sends an ARP request and receives an ARP reply from Host-B. What is in the ARP reply that Host-A did not know and needs to communicate with Host-B?",
+        "choices": [
+            "Host B's MAC address",
+            "Host B's IP and MAC addresses",
+            "Host B's IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one function of the ARP protocol?",
+        "choices": [
+            "resolving an IPv4 address to a MAC address",
+            "obtaining an IPv4 address automatically",
+            "mapping a domain name to its IP address",
+            "maintaining a table of domain names with their resolved IP addresses"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which destination address is used in an ARP request frame?",
+        "choices": [
+            "FFFF.FFFF.FFFF",
+            "0.0.0.0",
+            "255.255.255.255",
+            "127.0.0.1",
+            "01-00-5E-00-AA-23"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes the treatment of ARP requests on the local link?",
+        "choices": [
+            "They are received and processed by every device on the local network.",
+            "They must be forwarded by all routers on the local network.",
+            "They are dropped by all switches on the local network.",
+            "They are received and processed only by the target device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What important information is examined in the Ethernet frame header by a Layer 2 device in order to forward the data onward?",
+        "choices": [
+            "destination MAC address",
+            "source MAC address",
+            "source IP address",
+            "Ethernet type",
+            "destination IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two functions of MAC addresses in a LAN?\n\nChoose two.",
+        "choices": [
+            "to allow the transfer of frames from source to destination",
+            "to uniquely identify a node on a network",
+            "to determine which host has priority to transfer data",
+            "to indicate the best path between separate networks",
+            "to associate with a specific network IP address"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What addresses are mapped by ARP?",
+        "choices": [
+            "IPv4 address to a destination MAC address",
+            "destination IPv4 address to the source MAC address",
+            "destination IPv4 address to the destination host name",
+            "destination MAC address to the source IPv4 address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What statement describes a characteristic of MAC addresses?",
+        "choices": [
+            "They are the physical address of the NIC or interface.",
+            "They are only routable within the private network.",
+            "They are added as part of a Layer 3 PDU.",
+            "They have a 32-bit binary value."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two characteristics describe MAC addresses?\n\nChoose two.",
+        "choices": [
+            "physical address assigned to the NIC",
+            "identifies source and destination in Layer 2 header",
+            "logical address assigned by DHCP",
+            "used by routers to select the best path to a destination"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Reasons to divide a network into multiple smaller networks.\n\nChoose two.",
+        "choices": [
+            "To maintain smaller broadcast domains",
+            "Increase network security",
+            "Devices receive all the network traffic",
+            "Large networks are more difficult to troubleshoot."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which of the following devices is used to divide a network into smaller networks?",
+        "choices": [
+            "Routers",
+            "Bridges",
+            "Hubs",
+            "Switches"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is routing?",
+        "choices": [
+            "Routing is a process to determine the best path to a destination.",
+            "Routing is a way to connect devices within a local area network.",
+            "Routing transfers data between devices."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What information in the IP packet does the router use to determine which interface to forward the packet?",
+        "choices": [
+            "destination IP address",
+            "destination MAC address",
+            "source IP address",
+            "source MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "If Host-A has an IP packet to send to Host-B, and Host-A has determined that Host-B is on a different network. Host-A will encapsulate the IP packet in an Ethernet frame with the destination MAC address of the its default gateway.\n\nTrue or false?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A default route is the interface through which the router forwards:",
+        "choices": [
+            "a packet containing a destination IP network address that is not in the routing table of the router",
+            "a packet containing a source IP network address that is not in the routing table of the router",
+            "all packets",
+            "any packet when a host does not receive an ARP Reply"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A host will send a packet to the default gateway when:",
+        "choices": [
+            "the destination IP address is on a different network",
+            "it does not receive an ARP Reply",
+            "all packets",
+            "the source IP address is on a different network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which information is used by routers to forward a data packet toward its destination?",
+        "choices": [
+            "destination IP address",
+            "source IP address",
+            "source data-link address",
+            "destination data-link address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "If the default gateway is configured incorrectly on the host, what is the impact on communications?",
+        "choices": [
+            "The host can communicate with other hosts on the local network, but is unable to communicate with hosts on remote networks.",
+            "The host is unable to communicate on the local network.",
+            "The host can communicate with other hosts on remote networks, but is unable to communicate with hosts on the local network.",
+            "There is no impact on communications."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What role does a router play on a network?",
+        "choices": [
+            "selecting the path to destination networks",
+            "forwarding Layer 2 broadcasts",
+            "forwarding frames based on a MAC address",
+            "connecting smaller networks into a single broadcast domain"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which address should be configured as the default gateway address of a client device?",
+        "choices": [
+            "the IPv4 address of the router interface that is connected to the same LAN",
+            "the Layer 2 address of the switch management interface",
+            "the Layer 2 address of the switch port that is connected to the workstation",
+            "the IPv4 address of the router interface that is connected to the internet"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which device is used to transfer data from one IP local network to a remote network?",
+        "choices": [
+            "router",
+            "NIC card",
+            "switch",
+            "server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a benefit of adding a router within an IP network?",
+        "choices": [
+            "keeps broadcasts contained within a local network",
+            "increases the size of the local network",
+            "reduces the number of hosts that can connect to the network",
+            "controls host-to-host traffic within a single local network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What action will a router take when it receives a frame with a broadcast MAC address?",
+        "choices": [
+            "It will not forward the frame to another network.",
+            "It forwards the frame back to the sending host.",
+            "It forwards the frame out of all connected interfaces.",
+            "It forwards the frame back out the receiving interface."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two reasons to install routers to segment a network?\n\nChoose two.",
+        "choices": [
+            "to create smaller broadcast domains within the network",
+            "to expand the network to a different geographic location",
+            "to limit the number of devices that can connect to the network",
+            "to reduce the number of switches needed to connect devices"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which table does a router use to determine which interface to use to send packets to the destination network?",
+        "choices": [
+            "routing table",
+            "ARP table",
+            "network table",
+            "forwarding table"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What action does the router take when it does not find a route to the destination network in its routing table?",
+        "choices": [
+            "It drops the packet.",
+            "It sends the packet as a broadcast.",
+            "It returns the packet to the sender.",
+            "It sends the packet out all connected interfaces."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network administrator investigates a user problem. The user can reach hosts on the same network, but is unable to communicate to remote networks.The network administrator tries to ping the gateway address configured on the host device and is unsuccessful. What is the most likely cause of the problem?",
+        "choices": [
+            "The default gateway address is incorrect.",
+            "The address of the remote device is incorrect.",
+            "TCP/IP is not installed on the host device.",
+            "The IP address of the user is incorrectly configured."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the result if the default gateway address is misconfigured on a PC?",
+        "choices": [
+            "The PC can communicate with devices in the same network but not with those in remote networks.",
+            "The PC can communicate with devices in remote networks but not with those in the same network.",
+            "The PC cannot communicate with any devices.",
+            "The PC can communicate with devices both in remote networks and in the same network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When a LAN is connected to the internet using a wireless router, how do devices on the LAN communicate on the internet using NAT?",
+        "choices": [
+            "All devices must share the single public IPv4 address assigned to the wireless router in order to communicate to the internet via NAT.",
+            "Only a small group of high priority client devices can be chosen by the wireless router to communicate to the internet using NAT.",
+            "Each LAN must select a single client device from the wireless router settings that can communicate to the internet via NAT.",
+            "Each device must wait to receive a token from the wireless router in order to communicate to the internet via NAT."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of address can be shared through NAT to enable home network devices to send and receive data over the internet?",
+        "choices": [
+            "registered public IP address",
+            "registered MAC address",
+            "broadcast MAC address",
+            "private IPv6 address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What will happen if the default gateway address is incorrectly configured on a host?",
+        "choices": [
+            "The host cannot communicate with hosts in other networks.",
+            "A ping from the host to 127.0.0.1 would not be successful.",
+            "The host cannot communicate with other hosts in the local network.",
+            "The switch will not forward packets initiated by the host.",
+            "The host will have to use ARP to determine the correct address of the default gateway."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A home network is using NAT on the router connecting it to the internet. The PCs on the home network receive private IP addresses through DHCP. When a PC sends a packet to a web server on the internet, what is the source IP address in the packet header when it arrives at the web server?",
+        "choices": [
+            "a registered public IP address assigned to the external router interface",
+            "a registered public IP address statically configured on the PC",
+            "the private IP address assigned to the PC through DHCP",
+            "the broadcast IP address of the external network connecting to the ISP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used by a computer to find the MAC address of the default gateway on an Ethernet network?",
+        "choices": [
+            "ARP",
+            "DHCP",
+            "UDP",
+            "TCP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A host needs to reach another host on a remote network, but the ARP cache has no mapping entries. To what destination address will the host send an ARP request?",
+        "choices": [
+            "the broadcast MAC address",
+            "the unicast IP address of the remote host",
+            "the subnet broadcast IP address",
+            "the unicast MAC address of the remote host"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What action does the ARP process take when a host needs to build a frame, but the ARP cache does not contain an address mapping?",
+        "choices": [
+            "The ARP process sends out an ARP request to the Ethernet broadcast address to discover the MAC address of the destination device.",
+            "The ARP process sends out an ARP request to the Ethernet broadcast address to discover the IPv4 address of the destination device.",
+            "The ARP process sends out an ARP request to the IPv4 broadcast address to discover the MAC address of the destination device.",
+            "The ARP process sends out an ARP request to the IPv4 broadcast address to discover the IPv4 address of the destination device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of ARP in an IPv4 network?",
+        "choices": [
+            "to obtain a specific MAC address when an IP address is known",
+            "to forward data onward based on the destination MAC address.",
+            "to build the MAC address table in a switch from the information that is gathered",
+            "to forward data onward based on the destination IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The ARP table in a switch maps which two types of address together?",
+        "choices": [
+            "Layer 3 address to a Layer 2 address",
+            "Layer 2 address to a Layer 4 address",
+            "Layer 4 address to a Layer 2 address",
+            "Layer 3 address to a Layer 4 address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Why is it important for the router to maintain an accurate routing table?",
+        "choices": [
+            "to determine the best path to reach the destination network",
+            "to prevent broadcasts from occurring on the LAN",
+            "to provide Layer 2 addressing information for the next hop",
+            "to identify all of the routers in a large network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which portion of the network layer address does a router use to forward packets?",
+        "choices": [
+            "network portion",
+            "gateway address",
+            "broadcast address",
+            "host portion"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two functions of a router?\n\nChoose two.",
+        "choices": [
+            "It determines the best path to send packets",
+            "A router connects multiple IP networks.",
+            "It provides segmentation at Layer 2.",
+            "It builds a routing table based on ARP requests.",
+            "It controls the flow of data via the use of Layer 2 addresses."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "In two networks joined by a router, what does the router do after it determines that a data packet from Network 1 should be forwarded to Network 2?",
+        "choices": [
+            "It reassembles the frame with different MAC addresses than the original frame.",
+            "It reassembles the data packet with different IP addresses than the original data packet.",
+            "It sends the frame with the same information as it was received.",
+            "It reassembles both the packet and the frame with different destination IP and MAC addresses."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two functions are primary functions of a router?\n\nChoose two.",
+        "choices": [
+            "packet forwarding",
+            "path selection",
+            "domain name resolution",
+            "MAC address assignment"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "When a router receives a packet, what information must be examined in order for the packet to be forwarded to a remote destination?",
+        "choices": [
+            "destination IP address",
+            "source MAC address",
+            "destination MAC address",
+            "source IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which layer of the TCP/IP model is responsible for ensuring packets are sent reliably and any missing packets are resent?",
+        "choices": [
+            "transport layer",
+            "application layer",
+            "network access layer",
+            "internetwork layer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The Transport Control Protocol (TCP) does not keep track of segments sent to the destination.",
+        "choices.\n\nTrue or False: ": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "The User Datagram Protocol (UDP) does not use acknowledgments to track the receipt of segments.\n\nTrue or False?",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Assume a host with IP address 10.1.1.10 wants to request web services from a server at 10.1.1.254. Which of the following would display the correct socket pair?",
+        "choices": [
+            "10.1.1.10:1099, 10.1.1.254:80",
+            "80:10.1.1.10, 1099:10.1.1.254",
+            "1099:10.1.1.10, 80:10.1.1.254",
+            "10.1.1.10:80, 10.1.1.254:1099"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which port group includes port numbers for FTP, HTTP, and TFTP applications?",
+        "choices": [
+            "well-known ports",
+            "private ports",
+            "registered ports",
+            "dynamic ports"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which Windows command would display the protocols in use, the local address and port numbers, the foreign address and port numbers, and the connection state?",
+        "choices": [
+            "netstat",
+            "traceroute",
+            "ipconfig /all",
+            "ping"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol operates at the application layer of the TCP/IP model?",
+        "choices": [
+            "HTTP",
+            "IP",
+            "TCP",
+            "ICMP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a characteristic of UDP?",
+        "choices": [
+            "It provides unreliable delivery of segments.",
+            "It establishes sessions with a three-way handshake.",
+            "It uses sequence numbers to reassemble segments.",
+            "It adds 20 bytes of overhead to application layer data."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of applications are best suited to use UDP as the transport layer protocol?",
+        "choices": [
+            "applications that require minimal transmission delay",
+            "applications that require stateful sessions",
+            "applications that require data to be reassembled in a specific order",
+            "applications that require flow control"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A student is sending files from a phone to a computer across a network. Which layer of the TCP/IP model is responsible for reassembling these messages as they are received on the computer?",
+        "choices": [
+            "transport",
+            "application",
+            "internet",
+            "network access"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "At which layer of the TCP/IP model does TCP operate?",
+        "choices": [
+            "transport",
+            "application",
+            "internetwork",
+            "network access"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What protocol header information is used at the transport layer to identify a target application?",
+        "choices": [
+            "port number",
+            "IP address",
+            "sequence number",
+            "MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of port number is assigned by IANA to commonly used services and applications?",
+        "choices": [
+            "well-known port",
+            "registered port",
+            "dynamic port",
+            "private port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the purpose of using a source port number in a TCP communication?",
+        "choices": [
+            "to keep track of multiple conversations between devices",
+            "to notify the remote device that the conversation is over",
+            "to assemble the segments that arrived out of order",
+            "to inquire for a nonreceived segment"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an advantage of UDP over TCP?",
+        "choices": [
+            "UDP communication requires less overhead.",
+            "UDP communication is more reliable.",
+            "UDP reorders segments that are received out of order.",
+            "UDP acknowledges received data."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When is UDP preferred to TCP?",
+        "choices": [
+            "when an application can tolerate some loss of data during transmission",
+            "when a client sends a segment to a server",
+            "when all the data must be fully received before any part of it is considered useful",
+            "when segments must arrive in a very specific sequence to be processed successfully"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement correctly describes data transmission at the transport layer?",
+        "choices": [
+            "Both UDP and TCP use port numbers.",
+            "Retransmission of lost packets is provided by both TCP and UDP.",
+            "Segmentation is provided by the window size field when the TCP protocol is used.",
+            "A single datagram can include both a TCP and a UDP header.",
+            "Segmentation is provided by sequence numbers when UDP is used."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which application protocol is used to automatically configure IP addressing information?",
+        "choices": [
+            "DHCP",
+            "FTP",
+            "IMAP",
+            "DNS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which application protocols are used to by clients to retrieve email messages?\n\nChoose two.",
+        "choices": [
+            "IMAP",
+            "POP",
+            "FTP",
+            "HTTP",
+            "DNS",
+            "SMTP"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which application protocol is used to resolve web addresses to an IP address?",
+        "choices": [
+            "DNS",
+            "HTTP",
+            "SSH",
+            "DHCP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "This protocol is used by a client to send email to a mail server.",
+        "choices": [
+            "SMTP",
+            "POP",
+            "IMAP",
+            "HTTP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a feature of IMAP?",
+        "choices": [
+            "It downloads a copy of email messages leaving the original on the server.",
+            "It listens passively on port 110 for client requests.",
+            "It uploads email messages to a server."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "True or False? Text messaging is only available on a smartphone?",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What two characteristics describe an FTP connection?\n\nChoose two.",
+        "choices": [
+            "Files can be downloaded from or uploaded to the server.",
+            "The first connection established is for traffic control and the second connection is created to transfer a file.",
+            "A large file requires more than two connections between the client and the server to successfully download it.",
+            "The server establishes the first connection with the client to control traffic that consists of server commands and client replies.",
+            "The client needs to run a daemon program to establish an FTP connection with a server."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which statement is correct about network protocols?",
+        "choices": [
+            "They define how messages are exchanged between the source and the destination.",
+            "Network protocols define the type of hardware that is used and how it is mounted in racks.",
+            "They all function in the network access layer of TCP/IP.",
+            "They are only required for exchange of messages between devices on remote networks."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used by web servers to serve up a web page?",
+        "choices": [
+            "HTTP",
+            "FTP",
+            "IMAP",
+            "POP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two protocols are used in the process of sending and receiving emails?\n\nChoose two.",
+        "choices": [
+            "POP",
+            "SMTP",
+            "HTTP",
+            "SSH",
+            "FTP"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which two applications provide virtual terminal access to remote servers?\n\nChoose two.",
+        "choices": [
+            "SSH",
+            "Telnet",
+            "DNS",
+            "DHCP",
+            "SMTP"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the advantage of using SSH over Telnet?",
+        "choices": [
+            "SSH provides secure communications to access hosts.",
+            "SSH is easier to use.",
+            "SSH operates faster than Telnet.",
+            "SSH supports authentication for a connection request."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol allows a user to type www.cisco.com instead of an IP address to access the web server?",
+        "choices": [
+            "DNS",
+            "FTP",
+            "HTML",
+            "HTTP",
+            "SNMP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used to transfer web pages from a server to a client device?",
+        "choices": [
+            "HTTP",
+            "HTML",
+            "SMTP",
+            "SSH",
+            "POP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two application layer protocols manage the exchange of messages between a client with a web browser and a remote web server?\n\nChoose two.",
+        "choices": [
+            "HTTP",
+            "HTTPS",
+            "DNS",
+            "HTML",
+            "DHCP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Data FTP protocol?",
+        "choices": [
+            "20",
+            "22",
+            "23",
+            "25"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Control FTP protocol?",
+        "choices": [
+            "21",
+            "22",
+            "23",
+            "20"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the SSH application protocol?",
+        "choices": [
+            "22",
+            "23",
+            "25",
+            "53"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the TELNET application protocol?",
+        "choices": [
+            "23",
+            "25",
+            "53",
+            "67"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the DNS application protocol?",
+        "choices": [
+            "53",
+            "67",
+            "68",
+            "69"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the DHCP server application protocol?",
+        "choices": [
+            "67",
+            "68",
+            "69",
+            "80"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the DHCP client application protocol?",
+        "choices": [
+            "68",
+            "69",
+            "80",
+            "110"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Trivial File Transfer Protocol (TFTP)?",
+        "choices": [
+            "69",
+            "80",
+            "110",
+            "143"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Hypertext Transfer Protocol (HTTP)?",
+        "choices": [
+            "80",
+            "110",
+            "143",
+            "161"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Post Office Protocol version 3 (POP3)?",
+        "choices": [
+            "110",
+            "143",
+            "25",
+            "80"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Internet Message Access Protocol (IMAP)?",
+        "choices": [
+            "143",
+            "110",
+            "25",
+            "80"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Simple Network Management Protocol (SNMP)?",
+        "choices": [
+            "161",
+            "443",
+            "110",
+            "69"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the port number of the Hypertext Transfer Protocol Secure (HTTPS?",
+        "choices": [
+            "443",
+            "161",
+            "110",
+            "69"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a user trying to determine when issuing a ping 10.1.1.1 command on a PC?",
+        "choices": [
+            "if there is connectivity with the destination device",
+            "if the TCP/IP stack is functioning on the PC without putting traffic on the wire",
+            "the path that traffic will take to reach the destination",
+            "what type of device is at the destination"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user who is unable to connect to the file server contacts the help desk. The helpdesk technician asks the user to ping the IP address of the default gateway that is configured on the workstation. What is the purpose for this ping command?",
+        "choices": [
+            "to test that the host has the capability to reach hosts on other networks",
+            "to obtain a dynamic IP address from the server",
+            "to request that gateway forward the connection request to the file server",
+            "to resolve the domain name of the file server to its IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three pieces of information are revealed by the ipconfig command (without the /all switch)?\n\nChoose three.",
+        "choices": [
+            "IP address",
+            "subnet mask",
+            "default gateway",
+            "DHCP server",
+            "DNS server",
+            "MAC address"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which command is used to test network connectivity and provide a response to each packet received by the remote host?",
+        "choices": [
+            "ping",
+            "connect",
+            "text",
+            "tracert"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which command line utility is used to display active network connections on a PC?",
+        "choices": [
+            "netstat",
+            "nslookup",
+            "ipconfig",
+            "ipconfig /all"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user needs to find the MAC address on the host PC. Which command line utility can be used to display this information?",
+        "choices": [
+            "ipconfig /all",
+            "nslookup",
+            "ping",
+            "tracert"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user is able to ping www.cisco.com by its IP address but cannot browse to www.cisco.com in a browser. What is the possible cause?",
+        "choices": [
+            "The DNS server is not working.",
+            "The IP address of the source PC is wrong.",
+            "The IP address of the gateway is wrong.",
+            "The DHCP server is not configured correctly."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A technician troubleshooting a network problem has used CLI commands to determine that a computer has not been allocated a correct IP address from the DHCP server. Which command can the technician use to solve this problem?",
+        "choices": [
+            "ipconfig /renew",
+            "ping",
+            "ipconfig /release",
+            "tracert"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which command line utility is used to test connectivity to other IP hosts?",
+        "choices": [
+            "ping",
+            "tracert",
+            "ipconfig",
+            "nslookup"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the function of the ipconfig command line utility?",
+        "choices": [
+            "Displays IP configuration information.",
+            "Directly queries the name server for information on a destination domain.",
+            "Displays the route taken to the destination.",
+            "Displays network connections.",
+            "Tests connections to other IP hosts."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the function of the ping command line utility?",
+        "choices": [
+            "Tests connections to other IP hosts.",
+            "Displays IP configuration information.",
+            "Directly queries the name server for information on a destination domain.",
+            "Displays the route taken to the destination.",
+            "Displays network connections."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the function of the netstat command line utility?",
+        "choices": [
+            "Displays network connections.",
+            "Tests connections to other IP hosts.",
+            "Displays IP configuration information.",
+            "Directly queries the name server for information on a destination domain.",
+            "Displays the route taken to the destination."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the function of the tracert command line utility?",
+        "choices": [
+            "Displays the route taken to the destination.",
+            "Displays network connections.",
+            "Tests connections to other IP hosts.",
+            "Displays IP configuration information.",
+            "Directly queries the name server for information on a destination domain."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the function of the nslookup command line utility?",
+        "choices": [
+            "Directly queries the name server for information on a destination domain.",
+            "Displays IP configuration information.",
+            "Displays the route taken to the destination.",
+            "Displays network connections.",
+            "Tests connections to other IP hosts."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which action is performed by a client when establishing communication with a server via the use of UDP at the transport layer?",
+        "choices": [
+            "The client randomly selects a source port number.",
+            "The client sends an ISN to the server to start the 3-way handshake.",
+            "The client sets the window size for the session.",
+            "The client sends a synchronization segment to begin the session."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What information is used by TCP to reassemble and reorder received segments?",
+        "choices": [
+            "sequence numbers",
+            "fragment numbers",
+            "acknowledgment numbers",
+            "port numbers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A PC user issues the netstat command without any options. What is displayed as the result of this command?",
+        "choices": [
+            "a list of all established active TCP connections",
+            "a historical list of successful pings that have been sent",
+            "a local routing table",
+            "a network connection and usage report"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of applications are best suited for using UDP?",
+        "choices": [
+            "applications that are sensitive to delay",
+            "applications that require retransmission of lost segments",
+            "applications that need reliable delivery",
+            "applications that are sensitive to packet loss"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A client device has initiated a secure HTTP request to a web browser. Which well-known port address number is associated with the destination address?",
+        "choices": [
+            "443",
+            "110",
+            "80",
+            "404"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A destination PC receives an email message with the sequence numbers on packets out of order. Which layer of the TCP/IP model is responsible for reassembling the packets of the message in the correct order?",
+        "choices": [
+            "transport",
+            "internet",
+            "application",
+            "network access"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "While a network security product is being deployed, a customizable list of allowable protocols is shown. Which three protocols should be allowed to provide for the use of email on a network?\n\nChoose three.",
+        "choices": [
+            "POP3",
+            "SMTP",
+            "IMAP4",
+            "DNS",
+            "HTTP",
+            "TFTP",
+            "Telnet"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which number or set of numbers represents a socket?",
+        "choices": [
+            "01-23-45-67-89-AB",
+            "192.168.1.1:80",
+            "21",
+            "10.1.1.15"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three pieces of information are identified by a URL?\n\nChoose three.",
+        "choices": [
+            "the domain name that is being accessed",
+            "the protocol that is being used",
+            "the location of the resource",
+            "the MAC address of the web server",
+            "the version of the browser",
+            "the IP address of the gateway"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A new employee is attempting to configure a cell phone to connect to the email server of the company. Which port number should be selected when using the IMAP4 protocol to access email messages stored on the local server?",
+        "choices": [
+            "143",
+            "69",
+            "25",
+            "110"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes the use of the ping command?",
+        "choices": [
+            "The ping command tests end-to-end connectivity between two devices.",
+            "The ping command shows current Layer 4 sessions.",
+            "The ping command can be used to test reachability using the physical address of the device.",
+            "The ping command can be used to determine the exact location of the problem when troubleshooting reachability issues."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A computer has been assigned an IP address of 169.254.33.16. What command initiates the process of requesting a new IP address?",
+        "choices": [
+            "ipconfig /release",
+            "net computer",
+            "tracert",
+            "nslookup"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Use the ping command utility for IPv4 only?",
+        "choices": [
+            "ping -4",
+            "ping -6",
+            "ping -t",
+            "ping -a"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Use the ping command utility for IPv6 only.",
+        "choices": [
+            "ping -6",
+            "ping -4",
+            "ping -t",
+            "ping -a"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Use the ping command utility to resolve the address to the hostname.",
+        "choices": [
+            "ping -a",
+            "ping -4",
+            "ping -6",
+            "ping -t"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Use the ping command utility to continue pinging the target interface until manually stopped.",
+        "choices": [
+            "ping -t",
+            "ping -4",
+            "ping -6",
+            "ping -a"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a function of the tracert command that differs from the ping command when they are used on a workstation?",
+        "choices": [
+            "The tracert command shows the information of routers in the path.",
+            "The tracert command sends one ICMP message to each hop in the path.",
+            "The tracert command reaches the destination faster.",
+            "The tracert command is used to test the connectivity between two devices."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of device provides an Internet connection through the use of a phone jack?",
+        "choices": [
+            "DSL modem",
+            "satellite modem",
+            "Wi-Fi AP",
+            "cable modem"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a disadvantage of deploying a peer-to-peer network model?",
+        "choices": [
+            "lack of centralized administration",
+            "difficulty of setup",
+            "high degree of complexity",
+            "high cost"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes the use of powerline networking technology?",
+        "choices": [
+            "A device connects to an existing home LAN using an adapter and an existing electrical outlet.",
+            "New 'smart' electrical cabling is used to extend an existing home LAN.",
+            "Wireless access points use powerline adapters to distribute data through the home LAN.",
+            "A home LAN is installed without the use of physical cabling."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user is configuring a wireless access point and wants to prevent any neighbors from discovering the network. What action does the user need to take?",
+        "choices": [
+            "Disable SSID broadcast.",
+            "Configure a DNS server.",
+            "Enable WPA encryption.",
+            "Configure DMZ settings."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A tourist is traveling through the countryside and needs to connect to the internet from a laptop. However, the laptop only has Wi-Fi and Ethernet connections. The tourist has a smartphone with 3G/4G connectivity. What can the tourist do to allow the laptop to connect to the internet?",
+        "choices": [
+            "Enable tethering and create a hotspot.",
+            "Use an Ethernet cable to connect the smartphone to the laptop.",
+            "Use the smartphone to access the internet through a satellite connection and then share that connection with the laptop.",
+            "Use the smartphone to access web pages and then pass the web pages to the laptop."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A traveling sales representative uses a cell phone to interact with the home office and customers, track samples, make sales calls, log mileage, and upload/download data while at a hotel. Which internet connectivity method would be a preferred method to use on the mobile device due to the low cost?",
+        "choices": [
+            "Wi-Fi",
+            "DSL",
+            "cable",
+            "cellular"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three steps must be completed to manually connect an Android or IOS device to a secured wireless network?\n\nChoose three.",
+        "choices": [
+            "Input the authentication password.",
+            "Choose the correct security type.",
+            "Enter the network SSID.",
+            "Set the IP address.",
+            "Activate the Bluetooth antenna.",
+            "Change the MAC address."
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What information does an Ethernet switch examine and use to build its address table?",
+        "choices": [
+            "source MAC address",
+            "source IP address",
+            "destination IP address",
+            "destination MAC address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "At which layer of the OSI model would a logical address be added during encapsulation?",
+        "choices": [
+            "network layer",
+            "physical layer",
+            "data link layer",
+            "transport layer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which scenario is suitable for deploying twisted-pair cables?",
+        "choices": [
+            "to connect PC workstations in an office",
+            "to connect a TV set to the wall plug at home",
+            "to connect network devices in backbone networks",
+            "to connect data centers with high bandwidth requirements over long distances"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A cable installation company is trying to convince a customer to use fiber-optic cabling instead of copper cables for a particular job. What is one advantage of using fiber-optic cabling compared to copper cabling?",
+        "choices": [
+            "Fiber-optic cabling is completely immune to EMI and RFI.",
+            "The cost of fiber-optic connectors is lower.",
+            "The installation skills required for fiber-optic cabling are lower.",
+            "Fiber-optic cabling can transmit signals without attenuation."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What data encoding technology is used in copper cables?",
+        "choices": [
+            "electrical pulses",
+            "modulation of specific frequencies of electromagnetic waves",
+            "modulation of light rays",
+            "pulses of light"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What information is added to the switch table from incoming frames?",
+        "choices": [
+            "source MAC address and incoming port number",
+            "destination MAC address and incoming port number",
+            "source IP address and incoming port number",
+            "destination IP address and incoming port number"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What will a Cisco LAN switch do if it receives an incoming frame and the destination MAC address is not listed in the MAC address table?",
+        "choices": [
+            "Forward the frame out all ports except the port where the frame is received.",
+            "Use ARP to resolve the port that is related to the frame.",
+            "Send the frame to the default gateway address.",
+            "Drop the frame."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What layer is responsible for routing messages through an internetwork in the TCP/IP model?",
+        "choices": [
+            "internet",
+            "network access",
+            "session",
+            "transport"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two criteria are used to help select a network medium for a network?\n\nChoose two.",
+        "choices": [
+            "the distance the selected medium can successfully carry a signal",
+            "the environment where the selected medium is to be installed",
+            "the number of intermediate devices that are installed in the network",
+            "the types of data that need to be prioritized",
+            "the cost of the end devices that are used in the network"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which type of network model describes the functions that must be completed at a particular layer, but does not specify exactly how each protocol should work?",
+        "choices": [
+            "reference model",
+            "protocol model",
+            "TCP/IP model",
+            "hierarchical design model"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three addresses are valid public addresses\n\n?Choose three.",
+        "choices": [
+            "128.107.12.117",
+            "198.133.219.17",
+            "64.104.78.227",
+            "172.31.1.25",
+            "10.15.250.5",
+            "192.168.1.245"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A college has five campuses. Each campus has IP phones installed. Each campus has an assigned IP address range. For example, one campus has IP addresses that start with 10.1.x.x. On another campus the address range is 10.2.x.x. The college has standardized that IP phones are assigned IP addresses that have the number 4X in the third octet. For example, at one campus the address ranges used with phones include 10.1.40.x, 10.1.41.x, 10.1.42.x, etc. Which two groupings were used to create this IP addressing scheme?\n\nChoose two.",
+        "choices": [
+            "geographic location",
+            "device type",
+            "support model",
+            "device type",
+            "personnel type"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "How many bits are in an IPv4 address?",
+        "choices": [
+            "32",
+            "64",
+            "128",
+            "256"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A company uses DHCP servers to dynamically assign IPv4 addresses to employee workstations. The address lease duration is set as 5 days. An employee returns to the office after an absence of one week. When the employee boots the workstation, it sends a message to obtain an IP address. Which Layer 2 and Layer 3 destination addresses will the message contain?",
+        "choices": [
+            "FF-FF-FF-FF-FF-FF and 255.255.255.255",
+            "MAC address of the DHCP server and 255.255.255.255",
+            "both MAC and IPv4 addresses of the DHCP server",
+            "FF-FF-FF-FF-FF-FF and IPv4 address of the DHCP server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three types of nodes should be assigned static IP addresses on a network?\n\nChoose three.",
+        "choices": [
+            "gateways",
+            "printers",
+            "servers",
+            "desktop PCs",
+            "mobile laptops",
+            "tablets"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "What benefit does DHCP provide to a network?",
+        "choices": [
+            "Hosts can connect to the network and get an IP address without manual configuration.",
+            "Duplicate addresses cannot occur on a network that issues dynamic addresses using DHCP and has static assignments.",
+            "DHCP allows users to refer to locations by a name rather than an IP address.",
+            "Hosts always have the same IP address and are therefore always reachable."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the shortest valid representation of the IPv6 address 2001:0DB8:0000:1470:0000:0000:0000:0200?",
+        "choices": [
+            "2001:DB8:0:1470::200",
+            "2001:0DB8:0:147::02",
+            "2001:DB8::1470::200",
+            "2001:0DB8::1470:0:0:0:2"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many bits are represented by each group of four hexadecimal values contained between the colons in an IPv6 address?",
+        "choices": [
+            "16",
+            "32",
+            "8",
+            "64",
+            "4"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network administrator has a multi-floor LAN to monitor and maintain. Through careful monitoring, the administrator has noticed a large amount of broadcast traffic slowing the network. Which device would you use to best solve this problem?",
+        "choices": [
+            "router",
+            "switch",
+            "host",
+            "server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A user is setting up a home wireless network. A global address is to be used in NAT translations for traffic flowing through the wireless router. How is this global address assigned?",
+        "choices": [
+            "The wireless router will act as a DHCP client in order to receive global addressing from the ISP.",
+            "The host devices will select an unused IP address on the LAN for performing NAT through the wireless router.",
+            "The default gateway IP address of the LAN device is used as the global address for NAT translations through the wireless router.",
+            "The network administrator will choose an available IP address from the LAN and configure the global addressing of the wireless router."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "An employee is having connectivity issues. Why might a network technician try to ping the default gateway from the employee laptop?",
+        "choices": [
+            "to verify connectivity with the device that provides access to remote networks",
+            "to verify that the SVI interface on the switch is configured correctly",
+            "to verify that an IP address was provided by the DHCP server",
+            "to determine if the laptop address is included in the DNS server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of route is indicated by the code C in an IPv4 routing table on a Cisco router?",
+        "choices": [
+            "directly connected route",
+            "dynamic route learned from another router",
+            "static route",
+            "default route"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When analog voice signals are converted for use on a computer network, in what format are they encapsulated?",
+        "choices": [
+            "IP packets",
+            "segments",
+            "bits",
+            "frames"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How are port numbers used in the TCP/IP encapsulation process?",
+        "choices": [
+            "If multiple conversations occur that are using the same service, the source port number is used to track the separate conversations.",
+            "Source port and destination port numbers are randomly generated.",
+            "Destination port numbers are assigned automatically and cannot be changed.",
+            "Source port numbers and destination port numbers are not necessary when UDP is the transport layer protocol being used for the communication."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which command would a technician use to display network connections on a host computer?",
+        "choices": [
+            "netstat",
+            "ipconfig",
+            "tracert",
+            "nslookup"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Two pings were issued from a host on a local network. The first ping was issued to the IP address of the default gateway of the host and it failed. The second ping was issued to the IP address of a host outside the local network and it was successful. What is a possible cause for the failed ping?",
+        "choices": [
+            "Security rules are applied to the default gateway device, preventing it from processing ping requests.",
+            "The default gateway is not operational.",
+            "The TCP/IP stack on the default gateway is not working properly.",
+            "The default gateway device is configured with the wrong IP address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A technician is troubleshooting a network connectivity problem. Pings to the local wireless router are successful but pings to a server on the Internet are unsuccessful. Which CLI command could assist the technician to find the location of the networking problem?",
+        "choices": [
+            "tracert",
+            "ipconfig",
+            "msconfig",
+            "ipconfig/renew"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A user requests a website by typing in its name.",
+        "choices": [
+            "Domain Name System",
+            "email",
+            "file transfer",
+            "web service",
+            "Dynamic Host Configuration",
+            "SSH"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A user uploads new files to his or her website.",
+        "choices": [
+            "file transfer",
+            "email",
+            "web service",
+            "Dynamic Host Configuration",
+            "Domain Name System",
+            "SSH"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A network technician accesses a network device securely from a remote site.",
+        "choices": [
+            "SSH",
+            "email",
+            "file transfer",
+            "web service",
+            "Dynamic Host Configuration",
+            "Domain Name System"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A service that allows workers to send messages to each other over the Internet.",
+        "choices": [
+            "email",
+            "file transfer",
+            "web service",
+            "Dynamic Host Configuration",
+            "Domain Name System",
+            "SSH"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A workstation gets its IP address automatically.",
+        "choices": [
+            "Dynamic Host Configuration",
+            "email",
+            "file transfer",
+            "web service",
+            "Domain Name System",
+            "SSH"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Select the appropiate protocol function. A user types in a URL and a page loads in the client browser.",
+        "choices": [
+            "web service",
+            "email",
+            "file transfer",
+            "Dynamic Host Configuration",
+            "Domain Name System",
+            "SSH"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network technician attempts to ping www.example.net from a customer computer, but the ping fails. Access to mapped network drives and a shared printer are working correctly. What are two potential causes for this problem?\n\nChoose two.",
+        "choices": [
+            "DNS service is unavailable on the customer network.",
+            "The target web server is down.",
+            "The HTTP protocol is not working properly on the target server.",
+            "The computer has been assigned a static IP address.",
+            "The Windows domain or workgroup name that is configured on the computer is incorrect."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which wireless technology allows a customer to connect to a payment terminal in the store with a smartphone?",
+        "choices": [
+            "NFC",
+            "Bluetooth",
+            "Wi-Fi",
+            "GPS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What process involves placing one message format inside of another message format?",
+        "choices": [
+            "encapsulation",
+            "encoding",
+            "segmentation",
+            "flow control"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three addresses are valid public addresses?",
+        "choices": [
+            "128.107.12.117",
+            "198.133.219.17",
+            "64.104.78.227",
+            "172.31.1.25",
+            "10.15.250.5",
+            "192.168.1.245"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "For what purpose are IPv4 addresses utilized?",
+        "choices": [
+            "An IPv4 address is used to uniquely identify a device on an IP network.",
+            "An IPv4 address is used to uniquely identify the application that requested the information from a remote device.",
+            "An IPv4 address is used to identify the number of IP networks available.​",
+            "An IPv4 address is burned into the network card to uniquely identify a device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which number grouping is a valid IPv6 address?",
+        "choices": [
+            "2001:0db8:3c55:0015:1010:0000:abcd:ff13",
+            "1b10::1100::2001::2900::ab11::1102::0000::2900",
+            "1234:1230::1238::1299:1000::",
+            "12aa::1298:1200::129b"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A company is contemplating whether to use a client/server or a peer-to-peer network. What are three characteristics of a peer-to-peer network?\n\nChoose three.",
+        "choices": [
+            "lacks centralized administration",
+            "easy to create",
+            "less cost to implement",
+            "better security",
+            "scalable",
+            "better device performance when acting as both client and server"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "When a host sends a packet, how does it determine if the destination of the packet is on the same local network or on a remote network?",
+        "choices": [
+            "It uses the subnet mask to compare the source and destination IP address.",
+            "It checks to see if the default gateway is configured.",
+            "It queries the DNS server with the destination IP address.",
+            "It compares the source and destination MAC addresses."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A small accounting office is setting up a wireless network to connect end devices and to provide internet access. In which two scenarios does a wireless router perform Network Address Translation (NAT)?\n\nChoose two.",
+        "choices": [
+            "when a host is sending packets to the ISP in order to request a speed increase for Internet services",
+            "when a host is sending packets to a remote site owned by the manufacturer of the wireless router in order to request a digital copy of the device manual",
+            "when a host is sending a print job to a network printer on the LAN",
+            "when a host is sending HTTP packets to the wireless router in order to update the network addressing of the LAN",
+            "when a host is sending packets to a local server in order to update the network media settings and music playlists"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which two TCP header fields are used to confirm receipt of data?\n\nChoose two.",
+        "choices": [
+            "sequence number",
+            "acknowledgment number",
+            "preamble",
+            "FCS",
+            "checksum"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    }
+]
