@@ -1,6 +1,7 @@
 # reads libraries in the current directory
 import glob
 import json
+import os
 import random
 import textwrap
 
@@ -66,7 +67,8 @@ def select_question_number(frequencies):
 def grade_question(i_question, question):
 
     #
-    print("-" * 70)
+    os.system("clear")
+    print()
     print()
     print(f"Question {i_question + 1}")
     print()
@@ -119,7 +121,9 @@ def grade_question(i_question, question):
     if is_correct:
         print()
         print("Correct!")
-        print("\n")
+        print()
+        print()
+        input("Press ENTER to continue")
         return True
 
     print()
@@ -133,6 +137,7 @@ def grade_question(i_question, question):
                 choices[ans], width=67, initial_indent="", subsequent_indent="   "
             )
             print(f"{ans+1}. {text}")
+            prnt()
 
     else:
         print("The correct answer is:")
@@ -144,8 +149,11 @@ def grade_question(i_question, question):
             subsequent_indent="   ",
         )
         print(f"{correct_answers[0]+1}. {text}")
+        print()
+        print()
 
     print()
+    input("Press ENTER to continue")
     return False
 
 
