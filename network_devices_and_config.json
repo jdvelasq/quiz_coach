@@ -1,0 +1,5579 @@
+[
+    {
+        "question": "When designers follow accepted standards and protocols, which of the four basic characteristics of network architecture is achieved?",
+        "choices": [
+            "Scalability",
+            "fault tolerance",
+            "QoS",
+            "Security"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Confidentiality, integrity, and availability are requirements of which of the four basic characteristics of network architecture?",
+        "choices": [
+            "Security",
+            "fault tolerance",
+            "Scalability",
+            "QoS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "With which type of policy, a router can manage the flow of data and voice traffic, giving priority to voice communications if the network experiences congestion?",
+        "choices": [
+            "QoS",
+            "fault tolerance",
+            "Scalability",
+            "Security"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Having multiple paths to a destination is known as redundancy. This is an example of which characteristic of network architecture?",
+        "choices": [
+            "fault tolerance",
+            "Scalability",
+            "QoS",
+            "Security"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "An IP address is considered what type of address:",
+        "choices": [
+            "logical",
+            "physical"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "An Ethernet MAC address is considered what type of address:",
+        "choices": [
+            "physical",
+            "logical"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which address does not change when a device is connected to a new network?",
+        "choices": [
+            "physical",
+            "logical"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which portion of an IP address uniquely identifies that device on that network?",
+        "choices": [
+            "host",
+            "physical",
+            "logical",
+            "network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which design layer provides connectivity to devices on an Ethernet LAN?",
+        "choices": [
+            "access",
+            "core",
+            "distribution",
+            "physical"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two devices would commonly be found at the access layer of the hierarchical enterprise LAN design model?\n\nChoose two.",
+        "choices": [
+            "Layer 2 switch",
+            "access point",
+            "firewall",
+            "Layer 3 device",
+            "modular switch"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What characteristic of a network enables it to quickly grow to support new users and applications without impacting the performance of the service being delivered to existing users?",
+        "choices": [
+            "scalability",
+            "reliability",
+            "quality of service",
+            "accessibility"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Match the definition to the security goal: ensuring confidentiality",
+        "choices": [
+            "only the intended recipients can access and read the data",
+            "the assurance that the information has not been altered during transmission",
+            "the assurance of timely and reliable access to data"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Match the definition to the security goal: maintaining integrity",
+        "choices": [
+            "only the intended recipients can access and read the data",
+            "the assurance that the information has not been altered during transmission",
+            "the assurance of timely and reliable access to data"
+        ],
+        "answer": [
+            1
+        ]
+    },
+    {
+        "question": "Match the definition to the security goal: ensuring availability",
+        "choices": [
+            "only the intended recipients can access and read the data",
+            "the assurance that the information has not been altered during transmission",
+            "the assurance of timely and reliable access to data"
+        ],
+        "answer": [
+            2
+        ]
+    },
+    {
+        "question": "A student is streaming a movie to his computer but the movie keeps stopping. What service would give streaming traffic higher priority and avoid the movie stopping?",
+        "choices": [
+            "quality of service (QoS)",
+            "HTTPS",
+            "security",
+            "fault tolerance"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "True or False? The impact of the failure of an important network device can be limited by a feature called fault tolerance.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of address never changes on a device and is similar to a person's name?",
+        "choices": [
+            "MAC address",
+            "IP address",
+            "network address",
+            "logical address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are the three layers of the switch hierarchical design model?\n\nChoose three.",
+        "choices": [
+            "access",
+            "core",
+            "distribution",
+            "data link",
+            "network access",
+            "enterprise"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which network feature uses redundancy as a means to limit the number of affected users in the event of a failure?",
+        "choices": [
+            "fault tolerance",
+            "scalability",
+            "quality of service",
+            "security"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What characteristic of a network would allow video traffic to have priority over traffic from an email application?",
+        "choices": [
+            "quality of service",
+            "fault tolerance",
+            "scalability",
+            "reliability"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the responsibility of the distribution layer in a hierarchical network design?",
+        "choices": [
+            "It controls the traffic flows between the other layers.",
+            "It provides access to the network for end users.",
+            "It provides a high speed backbone for traffic flows.",
+            "It controls which devices are allowed to communicate on the network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which network design model improves efficiency by dividing the network into smaller pieces.",
+        "choices": [
+            "hierarchical",
+            "redundant",
+            "fault-tolerant",
+            "reliable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Match the feature with the description: fault tolerance",
+        "choices": [
+            "provides reliability",
+            "allows the network to grow",
+            "prioritizes traffic"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Match the feature with the description: scalability",
+        "choices": [
+            "allows the network to grow",
+            "provides reliability",
+            "prioritizes traffic"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Match the feature with the description: quality of service",
+        "choices": [
+            "prioritizes traffic",
+            "provides reliability",
+            "allows the network to grow"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which cloud model represents two or more clouds where each part remains a distinctive object, but both are connected using a single architecture?",
+        "choices": [
+            "hybrid cloud",
+            "public cloud",
+            "private cloud",
+            "community cloud"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which cloud model is used to meet the needs of a specific industry, such as healthcare or media?",
+        "choices": [
+            "community cloud",
+            "public cloud",
+            "private cloud",
+            "hybrid cloud"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What device uses all the RAM, processing power, and hard drive space devoted to one service?",
+        "choices": [
+            "dedicated server",
+            "mobile device",
+            "virtual machine",
+            "virtualized server"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term is associated with Cloud computing?",
+        "choices": [
+            "virtualization",
+            "teleworkers",
+            "wireless",
+            "tall servers"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three features represent benefits of virtualization?\n\nChoose three.",
+        "choices": [
+            "less power consumption",
+            "less equipment",
+            "improved disaster recovery",
+            "less employee technical training",
+            "less device monitoring",
+            "fewer security requirements"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which term describes the type of cloud computing service that provides applications over the web?",
+        "choices": [
+            "SaaS",
+            "IaaS",
+            "ITaaS",
+            "PaaS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Saving your photos to a storage location maintained by your service provider is an example of ________.",
+        "choices": [
+            "cloud computing",
+            "virtualization",
+            "big data"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which cloud model provides services for a specific organization or entity?",
+        "choices": [
+            "a private cloud",
+            "a hybrid cloud",
+            "a community cloud",
+            "a public cloud"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A company uses cloud services and is setting up a new switch supplied by the cloud provider. Which cloud model is used by the company?",
+        "choices": [
+            "IaaS",
+            "DaaS",
+            "PaaS",
+            "SaaS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What term is used to define the software process that creates VMs and performs hardware abstraction to support VMs?",
+        "choices": [
+            "hypervisor",
+            "container",
+            "element manager",
+            "Virtualized Infrastructure Manager (VIM)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which piece of software is responsible for creating virtual machines and providing them access to resources on a physical machine?",
+        "choices": [
+            "hypervisor",
+            "supervisor",
+            "host operating system",
+            "hosted operating system"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which cloud type consists of two or more clouds that are connected through a single architecture?",
+        "choices": [
+            "hybrid",
+            "private",
+            "public",
+            "community"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two are type 2 hypervisors?\n\nChoose two.",
+        "choices": [
+            "Virtualbox",
+            "Virtual PC",
+            "Xen",
+            "VMware ESXi",
+            "KVM"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a characteristic of a public cloud?",
+        "choices": [
+            "It is available to everyone.",
+            "It is intended for a specific organization.",
+            "It is made up of two or more clouds.",
+            "It is customized to meet specific functional needs of organizations."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the binary equivalent to the 192.168.11.10 IP address?",
+        "choices": [
+            "11000000.10101000.00001011.00001010",
+            "11000000.11000000.00001011.00001010",
+            "11000000.10101000.00001010.00001011",
+            "11000000.10101000.00001011.00010010"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is the binary equivalent to the 172.16.31.30 IP address?",
+        "choices": [
+            "10101100.00010000.00011111.00011110",
+            "11000000.00010000.00011111.00011110",
+            "10101000.00010000.00011111.00011110",
+            "10101100.00010000.00011110.00011110"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the hexadecimal equivalent of 202?",
+        "choices": [
+            "CA",
+            "BF",
+            "BA",
+            "CD"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the hexadecimal equivalent of 254?",
+        "choices": [
+            "FE",
+            "FE",
+            "ED",
+            "FA"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is the decimal equivalent of A9?",
+        "choices": [
+            "169",
+            "168",
+            "170",
+            "171"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is the decimal equivalent of 7D?",
+        "choices": [
+            "125",
+            "124",
+            "126",
+            "127"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the binary representation for the decimal number 173?",
+        "choices": [
+            "10101101",
+            "10100111",
+            "10100101",
+            "10110101"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many bits make up an octet in an IPv4 address?",
+        "choices": [
+            "8",
+            "4",
+            "16",
+            "32"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the decimal equivalent of 0xC9?",
+        "choices": [
+            "201",
+            "200",
+            "185",
+            "199"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the binary representation of 0xCA?",
+        "choices": [
+            "11001010",
+            "10111010",
+            "11010101",
+            "11011010"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the range of hexadecimal values that can be used in a hextet?",
+        "choices": [
+            "0000 to ffff",
+            "0000 to 1111",
+            "1111 to aaaa",
+            "0000 to 9999"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the hexadecimal equivalent for the binary number 10011101?",
+        "choices": [
+            "9D",
+            "85",
+            "A1",
+            "D9"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many bits are in an IPv4 address?",
+        "choices": [
+            "32",
+            "64",
+            "128",
+            "256"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network engineer wants to represent confidential data in binary format. What are the two possible values that the engineer can use?\n\nChoose two.",
+        "choices": [
+            "0",
+            "1",
+            "2",
+            "A",
+            "F"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is the hexadecimal equivalent for the decimal number 139?",
+        "choices": [
+            "8B",
+            "92",
+            "A1",
+            "D7"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a valid hexadecimal number?",
+        "choices": [
+            "F",
+            "G",
+            "H",
+            "J"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the binary equivalent of the decimal number 232?",
+        "choices": [
+            "11101000",
+            "11000110",
+            "10011000",
+            "11110010"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Given the binary address of 11101100 00010001 00001100 00001010, which address does this represent in dotted decimal format?",
+        "choices": [
+            "236.17.12.10",
+            "234.17.10.9",
+            "234.16.12.10",
+            "236.17.12.6"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a characteristic of a Type 2 hypervisor?",
+        "choices": [
+            "does not require management console software",
+            "installs directly on hardware",
+            "best suited for enterprise environments",
+            "has direct access to server hardware resources"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which feature relies on prioritization of network traffic and is used to ensure successful delivery of real-time services?",
+        "choices": [
+            "quality of service",
+            "reliability",
+            "redundancy",
+            "security"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What type of address is physically assigned to the NIC of a workstation?",
+        "choices": [
+            "MAC address",
+            "IP address",
+            "host address",
+            "network address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "An administrator is adding voice and video service capabilities to an existing network. What design requirement is being satisfied by this situation?",
+        "choices": [
+            "scalability",
+            "security",
+            "availability",
+            "manageability"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which term describes the state of a network when the demand on the network resources exceeds the available capacity?",
+        "choices": [
+            "congestion",
+            "convergence",
+            "optimization",
+            "synchronization"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A college is building a new dormitory on its campus. Workers are digging in the ground to install a new water pipe for the dormitory. A worker accidentally damages a fiber optic cable that connects two of the existing dormitories to the campus data center. Although the cable has been cut, students in the dormitories only experience a very short interruption of network services. What characteristic of the network is shown here?",
+        "choices": [
+            "fault tolerance",
+            "integrity",
+            "scalability",
+            "security",
+            "quality of service (QoS)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A networking technician is working on the wireless network at a medical clinic. The technician accidentally sets up the wireless network so that patients can see the medical records data of other patients. Which of the four network characteristics has been violated in this situation?",
+        "choices": [
+            "security",
+            "scalability",
+            "fault tolerance",
+            "reliability",
+            "quality of service (QoS)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A company is considering implementing virtualization solutions in a data center. What are three advantages of virtualization the company can expect to benefit from?\n\nChoose three.",
+        "choices": [
+            "improved disaster recovery",
+            "faster server provisioning",
+            "reduced physical space requirements",
+            "reduced security requirements",
+            "shorter work week",
+            "less employee training"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A company leases a cloud-based payroll system. Which cloud computing technology is this company using?",
+        "choices": [
+            "software as a service (SaaS)",
+            "platform as a service (PaaS)",
+            "infrastructure as a service (IaaS)",
+            "wireless as a service (WaaS)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which Cloud computing service would be best for a new organization that cannot afford physical servers and networking equipment and must purchase network services on-demand?",
+        "choices": [
+            "IaaS",
+            "ITaaS",
+            "PaaS",
+            "SaaS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which Cloud computing service would be best for an organization that needs to collaboratively create applications and deliver them over the web?",
+        "choices": [
+            "PaaS",
+            "SaaS",
+            "ITaaS",
+            "IaaS"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the function of a hypervisor?",
+        "choices": [
+            "to create VMs and provide hardware abstraction to support them",
+            "to centralize management of vSwitch configuration",
+            "to perform FCAPS functions for VNFs",
+            "to create an isolated environment where containerized applications run"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which characteristic defines a private cloud?",
+        "choices": [
+            "intended for a specific organization",
+            "available to the general public",
+            "created for a specific community",
+            "composed of two or more clouds"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the correct description of the distribution layer?",
+        "choices": [
+            "provides interconnections for smaller local access networks",
+            "provides host connectivity to the network",
+            "provides a high-speed connection for the backbone network"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the correct description of the access layer?",
+        "choices": [
+            "provides host connectivity to the network",
+            "provides a high-speed connection for the backbone network",
+            "provides interconnections for smaller local access networks"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the correct description of the core layer?",
+        "choices": [
+            "provides a high-speed connection for the backbone network",
+            "provides host connectivity to the network",
+            "provides interconnections for smaller local access networks"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IPv4 address format was created for ease of use by people and is expressed as 201.192.1.14?",
+        "choices": [
+            "dotted decimal",
+            "binary",
+            "ASCII",
+            "hexadecimal"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many bits make up the single IPv6 hextet :10CD:?",
+        "choices": [
+            "16",
+            "4",
+            "8",
+            "32"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the dotted decimal representation of the IPv4 address which is represented as the binary string 00001010.01100100.00010101.00000001?",
+        "choices": [
+            "10.100.21.1",
+            "100.21.10.1",
+            "10.10.20.1",
+            "100.10.11.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the hexadecimal equivalent for the binary number 10111010?",
+        "choices": [
+            "BA",
+            "A1",
+            "85",
+            "D9"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A student is learning number systems. What is the hexadecimal equivalent for the decimal number 165?",
+        "choices": [
+            "A5",
+            "7D",
+            "9F",
+            "C8"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two differences between binary and decimal numbers?\n\nChoose two.",
+        "choices": [
+            "Binary numbers are based on powers of 2.",
+            "Decimal numbers include 0 through 9.",
+            "Decimal numbers are based on powers of 1.",
+            "Binary numbers consist of three states: on, off, null. Decimal numbers do not have states.",
+            "Numbers typed on a keyboard are entered as binary and converted to decimal by the computer."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which part of an Ethernet Frame uses a pad to increase the frame field to at least 64 bytes?",
+        "choices": [
+            "Data field",
+            "EtherType",
+            "Preamble",
+            "Start of Frame Delimiter"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which part of an Ethernet frame detects errors in the frame?",
+        "choices": [
+            "Frame Check Sequence",
+            "Preamble",
+            "Start of Frame Delimiter"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which part of an Ethernet Frame describes the higher-layer protocol that is encapsulated?",
+        "choices": [
+            "EtherType",
+            "Preamble",
+            "Start of Frame Delimiter",
+            "Frame Check Sequence"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which part of an Ethernet Frame notifies the receiver to get ready for a new frame?",
+        "choices": [
+            "Preamble",
+            "Start of Frame Delimiter",
+            "Frame Check Sequence",
+            "Data field"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which data link sublayer controls the network interface through software drivers?",
+        "choices": [
+            "LLC",
+            "MAC"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which data link sublayer works with the upper layers to add application information for delivery of data to higher level protocols?",
+        "choices": [
+            "LLC",
+            "MAC"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is a function of the MAC sublayer?\n\nChoose three.",
+        "choices": [
+            "controls access to the media",
+            "checks for errors in received bits",
+            "uses CSMA/CD or CSMA/CA to support Ethernet technology",
+            "communicates between software at the upper layers and the device hardware at the lower layers",
+            "allows multiple Layer 3 protocols to use the same network interface and media"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which type of the following MAC address is unicast MAC address?",
+        "choices": [
+            "00-07-E9-42-AC-28",
+            "01-00-5E-00-00-C8",
+            "33-33-00-58-94-5C",
+            "FF-FF-FF-FF-FF-FF"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of the following MAC address is broadcast MAC address?",
+        "choices": [
+            "FF-FF-FF-FF-FF-FF",
+            "01-00-5E-00-00-C8",
+            "00-07-E9-42-AC-28",
+            "33-33-00-58-94-5C"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of the following MAC address is an IPv4 multicast MAC address?",
+        "choices": [
+            "01-00-5E-00-00-C8",
+            "00-07-E9-42-AC-28",
+            "33-33-00-58-94-5C",
+            "FF-FF-FF-FF-FF-FF"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which type of the following MAC address is an IPv6 multicast MAC address?",
+        "choices": [
+            "33-33-00-58-94-5C",
+            "01-00-5E-00-00-C8",
+            "00-07-E9-42-AC-28",
+            "FF-FF-FF-FF-FF-FF"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is encapsulated into the data field of an Ethernet frame?",
+        "choices": [
+            "the Layer 3 PDU",
+            "a cyclic redundancy check value",
+            "the encoded physical layer bits",
+            "the source and destination MAC addresses"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the length restriction of the data field in an Ethernet frame?",
+        "choices": [
+            "between 46 to 1500 bytes",
+            "between 0 to 1500 bytes",
+            "between 46 to 1518 bytes",
+            "between 46 to 1522 bytes"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which Ethernet sublayer is used to control network access using CSMA/CD?",
+        "choices": [
+            "MAC",
+            "LLC",
+            "data link",
+            "physical"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What addressing information is recorded by a switch to build its MAC address table?",
+        "choices": [
+            "the source Layer 2 address of incoming frames",
+            "the destination Layer 3 address of incoming packets",
+            "the destination Layer 2 address of outgoing frames",
+            "the source Layer 3 address of outgoing packets"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What important information is examined in the Ethernet frame header by a Layer 2 device in order to forward the data onward?",
+        "choices": [
+            "destination MAC address",
+            "source MAC address",
+            "source IP address",
+            "Ethernet type",
+            "destination IP address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What happens to runt frames received by a Cisco Ethernet switch?",
+        "choices": [
+            "The frame is dropped.",
+            "The frame is returned to the originating network device.",
+            "The frame is broadcast to all other devices on the same network.",
+            "The frame is sent to the default gateway."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is indicated by the 100 in the 100BASE-T standard?",
+        "choices": [
+            "megabits per second",
+            "meters",
+            "feet",
+            "twists per meter"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three fields are found in an 802.3 Ethernet frame?\n\nChoose three.",
+        "choices": [
+            "source physical address",
+            "frame check sequence",
+            "destination physical address",
+            "source logical address",
+            "media type identifier",
+            "destination logical address"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which two characteristics describe Ethernet technology?\n\nChoose two.",
+        "choices": [
+            "It is supported by IEEE 802.3 standards.",
+            "It uses unique MAC addresses to ensure that data is sent to the appropriate destination.",
+            "It is supported by IEEE 802.5 standards.",
+            "It typically uses an average of 16 Mbps for data transfer rates.",
+            "It uses a ring topology."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What will a host on an Ethernet network do if it receives a frame with a unicast destination MAC address that does not match its own MAC address?",
+        "choices": [
+            "It will discard the frame.",
+            "It will forward the frame to the next host.",
+            "It will remove the frame from the media.",
+            "It will strip off the data-link frame to check the destination IP address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which OSI layer sends segments to be encapsulated in an IPv4 or IPv6 packet?",
+        "choices": [
+            "transport layer",
+            "data link layer",
+            "network layer",
+            "session layer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which layer is responsible for taking an IP packet and preparing it for transmission over the communications medium?",
+        "choices": [
+            "data link layer",
+            "physical layer",
+            "network layer",
+            "transport layer"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the term for splitting up an IP packet when forwarding it from one medium to another medium with a smaller MTU?",
+        "choices": [
+            "fragmentation",
+            "encapsulation",
+            "segmentation",
+            "serialization"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which delivery method does not guarantee that the packet will be delivered fully without errors?",
+        "choices": [
+            "best effort",
+            "connectionless",
+            "media independent"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are the two most commonly referenced fields in an IPv4 packet header that indicate where the packet is coming from and where it is going?\n\nChoose two.",
+        "choices": [
+            "destination IP address",
+            "source IP address",
+            "protocol",
+            "Time to Live",
+            "Differentiated Services (DS)"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which statement is correct about IPv4 packet header fields?",
+        "choices": [
+            "The source and destination IPv4 addresses remain the same while travelling from source to destination.",
+            "The Time to Live field is used to determine the priority of each packet.",
+            "The Total Length and Header Checksum fields are used to reorder a fragmented packet.",
+            "The Version field identifies the next level protocol."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which field is used to detect corruption in the IPv4 header?",
+        "choices": [
+            "Header Checksum",
+            "Time to Live",
+            "Protocol",
+            "Differentiated Services (DS)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which field includes common values such as ICMP (1), TCP (6), and UDP (17)?",
+        "choices": [
+            "Protocol",
+            "Header Checksum",
+            "Time to Live",
+            "Differentiated Services (DS)"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which three options are major issues associated with IPv4?\n\nChoose three.",
+        "choices": [
+            "IP address depletion",
+            "increased network complexity and Internet routing table expansion",
+            "lack of end-to-end connectivity",
+            "always on connections",
+            "global and political boundaries",
+            "too many IPv4 addresses available"
+        ],
+        "answer": [
+            0,
+            1,
+            2
+        ]
+    },
+    {
+        "question": "Which two options are improvements provided by IPv6 as compared to IPv4?\n\nChoose two.",
+        "choices": [
+            "increased the IP address space",
+            "uses a simpler header to provide improved packet handling",
+            "header supports additional fields for complex packets",
+            "standardizes the use of NAT",
+            "supports class-based networks"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which is true of the IPv6 header?\n\nChoose two.",
+        "choices": [
+            "it consists of 40 octets.",
+            "it contains 8 header fields.",
+            "it consists of 20 octets.",
+            "it contains 12 header fields."
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Which is true of the IPv6 packet header?",
+        "choices": [
+            "The Hop Limit field replaces the IPv4 Time to Live field.",
+            "The Source and Destination IPv6 addresses change while travelling from source to destination.",
+            "The Time to Live field replaces the DiffServ field.",
+            "The Version field identifies the next header."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which value, that is contained in an IPv4 header field, is decremented by each router that receives a packet?",
+        "choices": [
+            "Time-to-Live",
+            "Differentiated Services",
+            "Fragment Offset",
+            "Header Length"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement accurately describes a characteristic of IPv4?",
+        "choices": [
+            "IPv4 has a 32-bit address space.",
+            "All IPv4 addresses are assignable to hosts.",
+            "An IPv4 header has fewer fields than an IPv6 header has.",
+            "IPv4 natively supports IPsec."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which technology provides a solution to IPv4 address depletion by allowing multiple devices to share one public IP address?",
+        "choices": [
+            "NAT",
+            "ARP",
+            "DNS",
+            "SMB",
+            "DHCP",
+            "HTTP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Why is IPv6 designed to replace IPv4?",
+        "choices": [
+            "because the IPv4 address space will soon be depleted",
+            "because most computers have a 64-bit processor",
+            "to allow computers to address more memory",
+            "to address compatibility issues with mobile devices"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which characteristic of the network layer in the OSI model allows carrying packets for multiple types of communications among many hosts?",
+        "choices": [
+            "the ability to operate without regard to the data that is carried in each packet",
+            "the de-encapsulation of headers from lower layers",
+            "the selection of paths for and direct packets toward the destination",
+            "the ability to manage the data transport between processes running on hosts"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes a characteristic of the network layer in the OSI model?",
+        "choices": [
+            "Its protocols specify the packet structure and processing used to carry the data from one host to another.",
+            "It manages the data transport between the processes running on each host.",
+            "In the encapsulation process, it adds source and destination port numbers to the IP header.",
+            "When a packet arrives at the destination host, its IP header is checked by the network layer to determine where the packet has to be routed."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which layer of the OSI model is responsible for the logical addressing of packets?",
+        "choices": [
+            "network",
+            "transport",
+            "session",
+            "data link"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the order of encapsulation for the protocol data units passing from the user application down the stack?",
+        "choices": [
+            "data, segments, packets, frames, bits",
+            "bits, segments, packets, frames, data",
+            "segments, data, packets, frames, bits",
+            "segments, packets, frames, bits, data"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What process involves placing one PDU inside of another PDU?",
+        "choices": [
+            "encapsulation",
+            "encoding",
+            "segmentation",
+            "flow control"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What information is added during encapsulation at OSI Layer 3?",
+        "choices": [
+            "source and destination IP address",
+            "source and destination MAC",
+            "source and destination application protocol",
+            "source and destination port number"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How does the network layer use the MTU value?",
+        "choices": [
+            "The MTU is passed to the network layer by the data link layer.",
+            "The network layer depends on the higher level layers to determine the MTU.",
+            "The network layer depends on the data link layer to set the MTU, and adjusts the speed of transmission to accommodate it.",
+            "To increase speed of delivery, the network layer ignores the MTU."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 10.5.4.100 255.255.255.0. What is the network address of Host-A?",
+        "choices": [
+            "10.5.4.0",
+            "10.0.0.0",
+            "10.5.0.0",
+            "10.5.4.100"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 172.16.4.100 255.255.0.0. What is the network address of Host-A?",
+        "choices": [
+            "172.16.0.0",
+            "172.0.0.0",
+            "172.16.4.0",
+            "172.16.4.100"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 10.5.4.100 255.255.255.0. Which of the following IPv4 addresses would be on the same network as Host-A?\n\nChoose all that apply.",
+        "choices": [
+            "10.5.4.1",
+            "10.5.4.99",
+            "10.5.0.1",
+            "10.0.0.98",
+            "10.5.100.4"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 172.16.4.100 255.255.0.0. Which of the following IPv4 addresses would be on the same network as Host-A?\n\nChoose all that apply.",
+        "choices": [
+            "172.16.4.99",
+            "172.16.0.1",
+            "172.17.4.99",
+            "172.17.4.1",
+            "172.18.4.1"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Host-A has the IPv4 address and subnet mask 192.168.1.50 255.255.255.0. Which of the following IPv4 addresses would be on the same network as Host-A?\n\nChoose all that apply.",
+        "choices": [
+            "192.168.1.1",
+            "192.168.1.100",
+            "192.168.0.1",
+            "192.168.0.100",
+            "192.168.2.1"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes IPv4 addressing?",
+        "choices": [
+            "The network portion of a destination IP address is obtained by performing an AND operation between a host IP address and a subnet mask.",
+            "Routers use the full 32-bit IP address to determine the location of each individual host.",
+            "An IPv4 address contains two parts: a network portion and a subnet portion.",
+            "Two hosts with the same subnet mask are in the same network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes one purpose of the subnet mask setting for a host?",
+        "choices": [
+            "It is used to determine to which network the host is connected.",
+            "It is used to describe the type of the subnet.",
+            "It is used to identify the default gateway.",
+            "It is used to determine the maximum number of bits within one packet that can be placed on a particular network."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many octets exist in an IPv4 address?",
+        "choices": [
+            "4",
+            "8",
+            "16",
+            "32"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which full range of decimal values are valid in one octet of an IPv4 address?",
+        "choices": [
+            "0 through 255",
+            "0 through 31",
+            "1 through 64",
+            "0 through 128",
+            "1 through 256"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "For what purpose are IPv4 addresses utilized?",
+        "choices": [
+            "An IPv4 address is used to uniquely identify a device on an IP network.",
+            "An IPv4 address is burned into the network card to uniquely identify a device.",
+            "An IPv4 address is used to uniquely identify the application that requested the information from a remote device.",
+            "An IPv4 address is used to identify the number of IP networks available."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the prefix length notation for the subnet mask 255.255.255.224?",
+        "choices": [
+            "/27",
+            "/25",
+            "/26",
+            "/28"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two parts are components of an IPv4 address?\n\nChoose two.",
+        "choices": [
+            "network portion",
+            "host portion",
+            "subnet portion",
+            "logical portion",
+            "physical portion",
+            "broadcast portion"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is obtained when ANDing the address 192.168.65.3/18 with its subnet mask?",
+        "choices": [
+            "192.168.64.0",
+            "192.168.0.0",
+            "192.168.16.0",
+            "192.168.32.0"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What do devices on the same IPv4 subnet have in common?",
+        "choices": [
+            "They all use the same default gateway.",
+            "They all have a subnet mask of /8, /16, or /24.",
+            "They all have the same last octet in their IPv4 addresses.",
+            "They all have the same number in the first three octets of their IPv4 address."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "How many unique addresses are available for assignment to hosts in the network of 10.100.16.0 with subnet mask 255.255.252.0?",
+        "choices": [
+            "1022",
+            "254",
+            "510",
+            "4094"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which is a valid default gateway address for a host configured with IP address 10.25.1.110 and a subnet mask of 255.255.255.192?",
+        "choices": [
+            "10.25.1.65",
+            "10.25.1.1",
+            "10.0.0.1",
+            "10.25.1.127"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When IPv4 addressing is manually configured on a web server, which property of the IPv4 configuration identifies the network and host portion for an IPv4 address?",
+        "choices": [
+            "subnet mask",
+            "DNS server address",
+            "default gateway",
+            "DHCP server address"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which information does a switch use to populate the MAC address table?",
+        "choices": [
+            "the source MAC address and the incoming port",
+            "the source MAC address and the outgoing port",
+            "the source and destination MAC addresses and the outgoing port",
+            "the destination MAC address and the outgoing port",
+            "the destination MAC address and the incoming port",
+            "the source and destination MAC addresses and the incoming port"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When a computer assembles a frame to be sent over the network, what is the maximum size of an Ethernet frame?",
+        "choices": [
+            "1518 bytes",
+            "64 bytes",
+            "128 bytes",
+            "1024 bytes"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "When would a switch record multiple entries for a single switch port in its MAC address table?",
+        "choices": [
+            "when another switch is connected to the switch port",
+            "when a router is connected to the switch port",
+            "when the switch is configured for Layer 3 switching",
+            "when multiple ARP broadcasts have been forwarded",
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What are two functions that are provided by the network layer?\n\nChoose two.",
+        "choices": [
+            "directing data packets to destination hosts on other networks",
+            "providing end devices with a unique network identifier",
+            "carrying data between processes that are running on source and destination hosts",
+            "providing dedicated end-to-end connections",
+            "placing data on the network medium"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What is correct in relation to NAT for IPv6?",
+        "choices": [
+            "It is a temporary mechanism to assist in the migration from IPv4 to IPv6.",
+            "Dual stack is an example of implementation of NAT for IPv6.",
+            "NAT64 has been deprecated by IETF in favor of NAT-PT.",
+            "It is used to convert private IPv6 addresses to public IPv6 addresses."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which IPv4 header field is responsible for defining the priority of the packet?",
+        "choices": [
+            "differentiated services",
+            "traffic class",
+            "flow label",
+            "flags"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one advantage that the IPv6 simplified header offers over IPv4?",
+        "choices": [
+            "efficient packet handling",
+            "little requirement for processing checksums",
+            "smaller-sized source and destination IP addresses",
+            "smaller-sized header"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which field in the IPv6 header points to optional network layer information that is carried in the IPv6 packet?",
+        "choices": [
+            "next header",
+            "traffic class",
+            "flow label",
+            "version"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What IPv6 header field is used to indicate the upper layer protocol or extension header that is included in the packet?",
+        "choices": [
+            "Next Header",
+            "Payload Length",
+            "Traffic Class",
+            "Flow Label"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which field in an IPv6 packet is used by the router to determine if a packet has expired and should be dropped?",
+        "choices": [
+            "Hop Limit",
+            "No Route to Destination",
+            "TTL",
+            "Address Unreachable"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What subnet mask would be associated with the IPv4 prefix of /28?",
+        "choices": [
+            "255.255.255.240",
+            "255.255.255.0",
+            "255.255.255.248",
+            "255.255.255.252",
+            "255.255.255.224"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Why does a Layer 3 device perform the ANDing process on a destination IP address and subnet mask?",
+        "choices": [
+            "to identify the network address of the destination network",
+            "to identify faulty frames",
+            "to identify the broadcast address of the destination network",
+            "to identify the host address of the destination host"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A network engineer subnets the network 192.168.100.0 /24 into 16 subnets. How many usable host addresses will be available on each of the subnets?",
+        "choices": [
+            "14",
+            "6",
+            "62",
+            "30"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which two hosts exist on the same subnet?\n\nChoose two.",
+        "choices": [
+            "host 172.16.101.199/23",
+            "host 172.16.100.4/23",
+            "host 172.16.97.78/23",
+            "host 172.16.98.250/23",
+            "host 172.16.102.237/23"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Consider the group of five IPv4 addresses each with the subnet mask of 255.255.255.0. Which two IPv4 addresses belong to the same local network?\n\nChoose two.",
+        "choices": [
+            "192.168.10.56",
+            "192.168.10.2",
+            "193.168.10.16",
+            "192.167.10.74",
+            "192.168.100.62"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "What two functions are provided by ARP?\n\nChoose two.",
+        "choices": [
+            "Maintains a table of IPv4 to MAC address mappings",
+            "Resolves IPv4 addresses to MAC addresses",
+            "Maintains a table of IPv4 address to domain names",
+            "Maintains a table of IPv6 to MAC address mappings",
+            "Resolves IPv4 addresses to domain names",
+            "Resolves IPv6 addresses to MAC addresses"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "Where is the ARP table stored on a device?",
+        "choices": [
+            "RAM",
+            "ROM",
+            "flash",
+            "NVRAM"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement is true about ARP?",
+        "choices": [
+            "ARP entries are cached temporarily.",
+            "ARP entries are cached permanently.",
+            "An ARP cache cannot be manually deleted."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which command could be used on a Cisco router to view its ARP table?",
+        "choices": [
+            "show ip arp",
+            "arp -a",
+            "arp -d",
+            "show arp table"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is an attack using ARP?",
+        "choices": [
+            "ARP poisoning",
+            "ARP broadcasts",
+            "ARP hopping attacks",
+            "ARP starvation"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used to discover the destination address needed to be added to an Ethernet frame?",
+        "choices": [
+            "ARP",
+            "DNS",
+            "DHCP",
+            "HTTP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is one function of the ARP protocol?",
+        "choices": [
+            "resolving an IPv4 address to a MAC address",
+            "obtaining an IPv4 address automatically",
+            "mapping a domain name to its IP address",
+            "maintaining a table of domain names with their resolved IP addresses"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What action does the ARP process take when a host needs to build a frame, but the ARP cache does not contain an address mapping?",
+        "choices": [
+            "The ARP process sends out an ARP request to the Ethernet broadcast address to discover the IPv4 address of the destination device.",
+            "The ARP process sends out an ARP request to the IPv4 broadcast address to discover the MAC address of the destination device.",
+            "The ARP process sends out an ARP request to the IPv4 broadcast address to discover the IPv4 address of the destination device.",
+            "The ARP process sends out an ARP request to the Ethernet broadcast address to discover the MAC address of the destination device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which statement describes the treatment of ARP requests on the local link?",
+        "choices": [
+            "They are received and processed by every device on the local network.",
+            "They must be forwarded by all routers on the local network.",
+            "They are dropped by all switches on the local network.",
+            "They are received and processed only by the target device."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the aim of an ARP spoofing attack?",
+        "choices": [
+            "to associate IP addresses to the wrong MAC address",
+            "to flood the network with ARP reply broadcasts",
+            "to fill switch MAC address tables with bogus addresses",
+            "to overwhelm network hosts with ARP requests"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A cybersecurity analyst believes that an attacker is announcing a forged MAC address to network hosts in an attempt to spoof the default gateway. Which command could the analyst use on the network hosts to see what MAC address the hosts are using to reach the default gateway?",
+        "choices": [
+            "arp -a",
+            "netsat -r",
+            "route print",
+            "ipconfig /all"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What will a host do first when preparing a Layer 2 PDU for transmission to a host on the same Ethernet network?",
+        "choices": [
+            "It will search the ARP table for the MAC address of the destination host.",
+            "It will send the PDU to the router directly connected to the network.",
+            "It will query the local DNS server for the name of the destination host.",
+            "It will initiate an ARP request to find the MAC address of the destination host."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which destination address is used in an ARP request frame?",
+        "choices": [
+            "FFFF.FFFF.FFFF",
+            "0.0.0.0",
+            "255.255.255.255",
+            "127.0.0.1",
+            "01-00-5E-00-AA-23"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which protocol is used by a computer to find the MAC address of the default gateway on an Ethernet network?",
+        "choices": [
+            "ARP",
+            "TCP",
+            "UDP",
+            "DHCP"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following DNS record types is used to resolve IPv6 addresses?",
+        "choices": [
+            "AAAA",
+            "A",
+            "NS",
+            "MX"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "True or false? A DNS server that receives a request for a name resolution that is not within its DNS zone will send a failure message to the requesting client.",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following is displayed by the nslookup utility?",
+        "choices": [
+            "the configured default DNS server",
+            "the IP address of the end device",
+            "all cached DNS entries"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following DNS resource record types resolves authoritative name servers?",
+        "choices": [
+            "NS",
+            "A",
+            "MX",
+            "AAAA"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "True or false? DHCP clients initiate the DHCP process by sending a DHCPREQUEST message to available DHCP servers.",
+        "choices": [
+            "False",
+            "True"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which of the following best describes DHCP?",
+        "choices": [
+            "DHCP automates the assignment of IP addresses, subnet masks, gateways, and other IPv4 networking parameters.",
+            "DHCP automates the process for discovering the MAC address of the destination.",
+            "DHCP automates the process for discovering the IP address for a domain name.",
+            "DHCP automates the translation of private and public IP addresses."
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "What is the correct order for the messages in DHCP operation?",
+        "choices": [
+            "DHCPDISCOVER, DHCPOFFER, DHCPREQUEST, DHCPNAK",
+            "DHCPDISCOVER, DHCPOFFER, DHCPNAK, DHCPREQUEST",
+            "DHCPOFFER, DHCPREQUEST, DHCPDISCOVER, DHCPNAK",
+            "DHCPREQUEST, DHCPDISCOVER, DHCPOFFER, DHCPNAK"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "Which network service automatically assigns IP addresses to devices on the network?",
+        "choices": [
+            "DHCP",
+            "Telnet",
+            "DNS",
+            "traceroute"
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "A host PC has just booted and is attempting to lease an address through DHCP. Which two messages will the client typically broadcast on the network\n\n?Choose two.",
+        "choices": [
+            "DHCPDISCOVER",
+            "DHCPREQUEST",
+            "DHCPOFFER",
+            "DHCPACK",
+            "DHCPNACK"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+    {
+        "question": "",
+        "choices": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "answer": [
+            0
+        ]
+    },
+]
