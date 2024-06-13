@@ -5393,5 +5393,20 @@
             0,
             1
         ]
-    }
+    },
+    {
+        "question": "Which two options are examples of standalone text messaging clients?\n\nChoose two.",
+        "choices": [
+            "Facebook messaging",
+            "WhatsApp",
+            "IMAP",
+            "VoIP",
+            "POP3",
+            "SMTP"
+        ],
+        "answer": [
+            0,
+            1
+        ]
+    },
 ]
